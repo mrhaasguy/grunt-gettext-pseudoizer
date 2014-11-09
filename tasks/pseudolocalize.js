@@ -1,9 +1,6 @@
 /*
- * grunt-concat-angular
+ * Adapted from
  * https://github.com/mrussell/grunt-pseudolocalize
- *
- * Copyright (c) 2014 Marcus Russell
- * Licensed under the MIT license.
  */
 
 module.exports = function(grunt) {
