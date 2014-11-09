@@ -1,0 +1,1431 @@
+# English translations for subdomain_parser package.
+# Copyright (C) 2005 Immunix, Inc.
+# This file is distributed under the same license as the subdomain_parser package.
+# Steve Beattie <steve@immunix.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: subdomain-parser 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-07-20 15:59+0200\n"
+"PO-Revision-Date: 2005-11-08 12:26+8\n"
+"Last-Translator: Steve Beattie <steve@immunix.com>\n"
+"Language-Team: English\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: china.cpp:2
+msgid "Country or region:"
+msgstr ""
+
+#: china.cpp:3 china.cpp:13
+msgid "Here you can choose your country or region. The settings for languages, numbers etc. will automatically switch to the corresponding values."
+msgstr ""
+
+#: china.cpp:5
+msgid ""
+"<h1>Country/Region & Language</h1>\n"
+"<p>From here you can configure language, numeric, and time \n"
+"settings for your particular region. In most cases it will be \n"
+"sufficient to choose the country you live in. For instance KDE \n"
+"will automatically choose \"German\" as language if you choose \n"
+"\"Germany\" from the list. It will also change the time format \n"
+"to use 24 hours and and use comma as decimal separator.</p>\n"
+msgstr ""
+
+#: china.cpp:12
+msgid "This is where you live. KDE will use the defaults for this country or region."
+msgstr ""
+
+#: dirfilter.cpp:1 kdeaddons3.spec.cpp:3
+msgid "Filter This Folder"
+msgstr ""
+
+#: dirfilter.cpp:2 kdeaddons3.spec.cpp:7 kdebase3.spec.cpp:310
+#, fuzzy
+msgid "Search Index"
+msgstr "Search for bundles"
+
+#: dirfilter.cpp:3 kdeaddons3.spec.cpp:10
+msgid "Enter here a text which shall be searched on the whole system in the Beagle index."
+msgstr ""
+
+#: kaffeine.spec.cpp:2
+msgid ""
+"This version of Xine (used by Kaffeine) has only a reduced\n"
+"set of supported codecs. It is not able to play DVDs.\n"
+"Read http://en.opensuse.org/XINE for further details."
+msgstr ""
+
+#: kaffeine.spec.cpp:5
+msgid "No WIN32 codecs found in /usr/lib/win32. You're not able to play Windows Media 9 files, newer Real Media files and some less common formats."
+msgstr ""
+
+#: kaffeine.spec.cpp:8
+msgid "libdvdcss not found. You're not able to play encrypted (most commercial) DVD's."
+msgstr ""
+
+#: kaffeine.spec.cpp:11
+msgid "The xine-lib shipped by SuSE \"may lack certain features because of legal requirements (potential patent violation)\"."
+msgstr ""
+
+#: kconfigeditor.spec.cpp:2
+msgid "Parsing configuration files..."
+msgstr ""
+
+#: kconfigeditor.spec.cpp:5
+msgid "Application ready"
+msgstr ""
+
+#: kdeaddons3.spec.cpp:13 searchbar.cpp:1
+msgid "Use Google Suggest"
+msgstr ""
+
+#: kdeaddons3.spec.cpp:16 searchbar.cpp:2
+msgid "For Google Only"
+msgstr ""
+
+#: kdeaddons3.spec.cpp:19 searchbar.cpp:3
+msgid "For All Searches"
+msgstr ""
+
+#: kdeaddons3.spec.cpp:22 searchbar.cpp:4
+#, fuzzy
+msgid "Never"
+msgstr "Severity"
+
+#: kdebase3.spec.cpp:2
+msgid "&Enable specific display power management"
+msgstr ""
+
+#: kdebase3.spec.cpp:5
+msgid "Configure KPowersave..."
+msgstr ""
+
+#: kdebase3.spec.cpp:8
+msgid "XFree theme %1 - incomplete for KDE"
+msgstr ""
+
+#: kdebase3.spec.cpp:11
+msgid "Change settings only for current session"
+msgstr ""
+
+#: kdebase3.spec.cpp:14
+msgid "If this option is enabled the size and orientation settings will be only changed for the current session."
+msgstr ""
+
+#: kdebase3.spec.cpp:17
+msgid "Please enter the Administrator (root) password to continue."
+msgstr ""
+
+#: kdebase3.spec.cpp:20
+#, fuzzy
+msgid "Please enter password for \"%1\" to continue."
+msgstr "Program to Profile"
+
+#: kdebase3.spec.cpp:26
+msgid "&Suspend Computer"
+msgstr ""
+
+#: kdebase3.spec.cpp:31
+msgid "Suspend to Disk"
+msgstr ""
+
+#: kdebase3.spec.cpp:36
+msgid "Suspend to RAM"
+msgstr ""
+
+#: kdebase3.spec.cpp:41
+msgid "Standby"
+msgstr ""
+
+#: kdebase3.spec.cpp:45
+msgid "Suspend Computer"
+msgstr ""
+
+#: kdebase3.spec.cpp:48
+msgid "&Language"
+msgstr ""
+
+#: kdebase3.spec.cpp:51
+#, fuzzy
+msgid "&System"
+msgstr "System"
+
+#: kdebase3.spec.cpp:54
+msgid "&Administration"
+msgstr ""
+
+#: kdebase3.spec.cpp:57
+msgid "&Disconnect"
+msgstr ""
+
+#: kdebase3.spec.cpp:63
+msgid "Power O&ff"
+msgstr ""
+
+#: kdebase3.spec.cpp:66
+msgid "S&uspend"
+msgstr ""
+
+#: kdebase3.spec.cpp:69
+msgid "&Reboot"
+msgstr ""
+
+#: kdebase3.spec.cpp:72
+#, fuzzy
+msgid "Caps Lock is enabled."
+msgstr "Rollback is not enabled."
+
+#: kdebase3.spec.cpp:75
+#, c-format
+msgid "User %s will log in in %d seconds"
+msgstr ""
+
+#: kdebase3.spec.cpp:78
+#, fuzzy
+msgid "&Username:"
+msgstr "Username: "
+
+#: kdebase3.spec.cpp:81
+#, fuzzy
+msgid "&Password:"
+msgstr "Proxy Password"
+
+#: kdebase3.spec.cpp:84
+msgid "&Domain:"
+msgstr ""
+
+#: kdebase3.spec.cpp:87
+msgid "&Top"
+msgstr ""
+
+#: kdebase3.spec.cpp:90
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:93
+msgid "<p>This link references the immediate parent of the current document.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:96
+msgid "&First"
+msgstr ""
+
+#: kdebase3.spec.cpp:99
+msgid "<p>This link type tells search engines which document is considered by the author to be the starting point of the collection.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:105
+msgid "<p>This link references the previous document in an ordered series of documents.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:108
+#, fuzzy
+msgid "&Next"
+msgstr "Next"
+
+#: kdebase3.spec.cpp:111
+msgid "<p>This link references the next document in an ordered series of documents.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:114
+msgid "&Last"
+msgstr ""
+
+#: kdebase3.spec.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:120
+msgid "<p>This link references the search.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:123
+msgid "Document"
+msgstr ""
+
+#: kdebase3.spec.cpp:126
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:129
+msgid "<p>This link references the table of contents.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:132
+msgid "Chapters"
+msgstr ""
+
+#: kdebase3.spec.cpp:135
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:138
+msgid "Sections"
+msgstr ""
+
+#: kdebase3.spec.cpp:141
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:144
+msgid "Subsections"
+msgstr ""
+
+#: kdebase3.spec.cpp:147
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:150
+msgid "Appendix"
+msgstr ""
+
+#: kdebase3.spec.cpp:153
+msgid "<p>This link references the appendix.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:156
+msgid "&Glossary"
+msgstr ""
+
+#: kdebase3.spec.cpp:159
+msgid "<p>This link references the glossary.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:162
+msgid "&Index"
+msgstr ""
+
+#: kdebase3.spec.cpp:165
+msgid "<p>This link references the index.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:168
+msgid "<p>This menu contains other important links.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:174
+msgid "<p>This link references the help.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:177
+msgid "&Authors"
+msgstr ""
+
+#: kdebase3.spec.cpp:180
+msgid "<p>This link references the author.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:183
+msgid "Copy&right"
+msgstr ""
+
+#: kdebase3.spec.cpp:186
+msgid "<p>This link references the copyright.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:189
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:192
+#, fuzzy
+msgid "Other Versions"
+msgstr "Version"
+
+#: kdebase3.spec.cpp:195
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:198
+msgid "<p>Miscellaneous links.</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:202
+msgid "&Alternate Button Order"
+msgstr ""
+
+#: kdebase3.spec.cpp:209
+#, c-format
+msgid "Folder: %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:214
+#, c-format
+msgid "Send Email to %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:218
+#, fuzzy, c-format
+msgid "Open Addressbook at %1"
+msgstr "Address lookup does not work"
+
+#: kdebase3.spec.cpp:221
+msgid "No subject"
+msgstr ""
+
+#: kdebase3.spec.cpp:224
+msgid "(Attachment) "
+msgstr ""
+
+#: kdebase3.spec.cpp:228
+#, c-format
+msgid "From %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:231
+#, c-format
+msgid "By %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:234
+#, c-format
+msgid "From Album %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:237
+#, fuzzy, c-format
+msgid "Title: %1"
+msgstr "Date"
+
+#: kdebase3.spec.cpp:243
+#, c-format
+msgid "Conversation With %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:246
+#, fuzzy
+msgid "Unknown Person"
+msgstr "Unknown error\n"
+
+#: kdebase3.spec.cpp:249
+#, fuzzy, c-format
+msgid "Date: %1"
+msgstr "Date"
+
+#: kdebase3.spec.cpp:252
+msgid "Switch to SUSE Menu Style"
+msgstr ""
+
+#: kdebase3.spec.cpp:255
+msgid "Switch to KDE Menu Style"
+msgstr ""
+
+#: kdebase3.spec.cpp:259
+msgid "New Applications"
+msgstr ""
+
+#: kdebase3.spec.cpp:262
+#, c-format
+msgid "Host: %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:265
+msgid "Directory: /)"
+msgstr ""
+
+#: kdebase3.spec.cpp:268
+#, fuzzy
+msgid "Directory: "
+msgstr "Recurse into the directory"
+
+#: kdebase3.spec.cpp:271
+msgid "Press '/' to search..."
+msgstr ""
+
+#: kdebase3.spec.cpp:274
+msgid "User&nbsp;<b>%1</b>&nbsp;on&nbsp;<b>%2</b>"
+msgstr ""
+
+#: kdebase3.spec.cpp:277
+msgid "Most commonly used applications and documents"
+msgstr ""
+
+#: kdebase3.spec.cpp:280
+msgid "List of installed applications"
+msgstr ""
+
+#: kdebase3.spec.cpp:283
+msgid "Information and configuration of your system, access to personal files, network resources and connected disk drives"
+msgstr ""
+
+#: kdebase3.spec.cpp:286
+msgid "Recently used applications and documents"
+msgstr ""
+
+#: kdebase3.spec.cpp:289
+msgid "<qt>Logout, switch user, switch off or reset, suspend of the system"
+msgstr ""
+
+#: kdebase3.spec.cpp:292
+msgid "<p align=\"center\"> <u>F</u>avorites</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:295
+msgid "<p align=\"center\"><u>H</u>istory</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:298
+msgid "<p align=\"center\"> <u>C</u>omputer</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:301
+msgid "<p align=\"center\"><u>A</u>pplications</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:304
+msgid "<p align=\"center\"><u>L</u>eave</p>"
+msgstr ""
+
+#: kdebase3.spec.cpp:307
+#, fuzzy
+msgid "Search Internet"
+msgstr "Search log entries"
+
+#: kdebase3.spec.cpp:313
+msgid "Applications, Contacts and Documents"
+msgstr ""
+
+#: kdebase3.spec.cpp:316
+msgid "Start '%1'"
+msgstr ""
+
+#: kdebase3.spec.cpp:319
+msgid "Start '%1' (current)"
+msgstr ""
+
+#: kdebase3.spec.cpp:322
+msgid "Restart and boot directly into '%1'"
+msgstr ""
+
+#: kdebase3.spec.cpp:325
+msgid "Start a parallel session"
+msgstr ""
+
+#: kdebase3.spec.cpp:328
+msgid "Lock screen and start a parallel session"
+msgstr ""
+
+#: kdebase3.spec.cpp:331
+msgid "Switch to Session of User '%1'"
+msgstr ""
+
+#: kdebase3.spec.cpp:334
+#, fuzzy, c-format
+msgid "Session: %1"
+msgstr "Version"
+
+#: kdebase3.spec.cpp:338
+msgid "Logout"
+msgstr ""
+
+#: kdebase3.spec.cpp:341
+msgid "End session"
+msgstr ""
+
+#: kdebase3.spec.cpp:344
+msgid "Lock"
+msgstr ""
+
+#: kdebase3.spec.cpp:347
+msgid "Lock screen"
+msgstr ""
+
+#: kdebase3.spec.cpp:350
+msgid "Save current Session for next login"
+msgstr ""
+
+#: kdebase3.spec.cpp:353
+msgid "Manage parallel sessions"
+msgstr ""
+
+#: kdebase3.spec.cpp:356
+#, fuzzy
+msgid "Shutdown Computer"
+msgstr "Shutdown is not blocked"
+
+#: kdebase3.spec.cpp:359
+msgid "Turn off computer"
+msgstr ""
+
+#: kdebase3.spec.cpp:362
+#, fuzzy
+msgid "Restart and boot the default system"
+msgstr "Restart the daemon"
+
+#: kdebase3.spec.cpp:365
+msgid "Start Operating System"
+msgstr ""
+
+#: kdebase3.spec.cpp:368
+msgid "Restart and boot another operating system"
+msgstr ""
+
+#: kdebase3.spec.cpp:373
+msgid "Applications"
+msgstr ""
+
+#: kdebase3.spec.cpp:376
+#, fuzzy
+msgid "System Information"
+msgstr "No confirmation"
+
+#: kdebase3.spec.cpp:379
+#, fuzzy
+msgid "System Folders"
+msgstr "System"
+
+#: kdebase3.spec.cpp:382
+msgid "Home Folder"
+msgstr ""
+
+#: kdebase3.spec.cpp:385
+msgid "My Documents"
+msgstr ""
+
+#: kdebase3.spec.cpp:388
+#, fuzzy
+msgid "Network Folders"
+msgstr "Network address"
+
+#: kdebase3.spec.cpp:391
+msgid "Documents"
+msgstr ""
+
+#: kdebase3.spec.cpp:394
+msgid "- Add ext:type to specify a file extension."
+msgstr ""
+
+#: kdebase3.spec.cpp:397
+msgid "- When searching for a phrase, add quotes."
+msgstr ""
+
+#: kdebase3.spec.cpp:400
+msgid "- To exclude search terms, use the minus symbol in front."
+msgstr ""
+
+#: kdebase3.spec.cpp:403
+msgid "- To search for optional terms, use OR."
+msgstr ""
+
+#: kdebase3.spec.cpp:406
+msgid "- You can use upper and lower case."
+msgstr ""
+
+#: kdebase3.spec.cpp:409
+msgid "Search Quick Tips"
+msgstr ""
+
+#: kdebase3.spec.cpp:412
+msgid "%1 = %2"
+msgstr ""
+
+#: kdebase3.spec.cpp:415
+#, c-format
+msgid "Open Local File: %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:418
+#, c-format
+msgid "Open Local Dir: %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:421
+#, c-format
+msgid "Open Remote Location: %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:424
+msgid "Run '%1'"
+msgstr ""
+
+#: kdebase3.spec.cpp:428
+#, fuzzy
+msgid "No matches found"
+msgstr "No packages found."
+
+#: kdebase3.spec.cpp:431
+msgid "top %1 of %2"
+msgstr ""
+
+#: kdebase3.spec.cpp:434
+msgid "%1 (top %2 of %3)"
+msgstr ""
+
+#: kdebase3.spec.cpp:437
+#, fuzzy
+msgid "Do you really want to end the session?"
+msgstr "Do you really want to use this path?"
+
+#: kdebase3.spec.cpp:440
+#, fuzzy
+msgid "Logout Confirmation"
+msgstr "No confirmation"
+
+#: kdebase3.spec.cpp:443
+#, fuzzy
+msgid "Do you really want to turn off the computer?"
+msgstr "Do you really want to use this path?"
+
+#: kdebase3.spec.cpp:446
+#, fuzzy
+msgid "Shutdown Confirmation"
+msgstr "No confirmation"
+
+#: kdebase3.spec.cpp:449
+msgid "Shutdown"
+msgstr ""
+
+#: kdebase3.spec.cpp:452
+msgid "Do you really want to reset the computer and boot (another operating system)?"
+msgstr ""
+
+#: kdebase3.spec.cpp:455
+#, fuzzy
+msgid "Restart Confirmation"
+msgstr "No confirmation"
+
+#: kdebase3.spec.cpp:458
+msgid "Restart"
+msgstr ""
+
+#: kdebase3.spec.cpp:461
+#, fuzzy
+msgid "Do you really want to reset the computer and boot Microsoft Windows"
+msgstr "Do you really want to use this path?"
+
+#: kdebase3.spec.cpp:464
+#, fuzzy
+msgid "Start Windows Confirmation"
+msgstr "No confirmation"
+
+#: kdebase3.spec.cpp:467
+msgid "Start Windows"
+msgstr ""
+
+#: kdebase3.spec.cpp:470
+msgid "Could not start Tomboy."
+msgstr ""
+
+#: kdebase3.spec.cpp:473
+msgid "Remove From Favorites"
+msgstr ""
+
+#: kdebase3.spec.cpp:476
+msgid "Add to Favorites"
+msgstr ""
+
+#: kdebase3.spec.cpp:479
+msgid "Clear Recently Used Applications"
+msgstr ""
+
+#: kdebase3.spec.cpp:482
+msgid "Clear Recently Used Documents"
+msgstr ""
+
+#: kdebase3.spec.cpp:485
+msgid "Media"
+msgstr ""
+
+#: kdebase3.spec.cpp:488
+#, fuzzy
+msgid "(%1 available)"
+msgstr "update available"
+
+#: kdebase3.spec.cpp:492
+#, c-format
+msgid "Directory: %1"
+msgstr ""
+
+#: kdebase3.spec.cpp:497
+msgid "Pause without logging out"
+msgstr ""
+
+#: kdebase3.spec.cpp:502
+msgid "Suspend failed"
+msgstr ""
+
+#: kdebase3.spec.cpp:505
+msgid "Notes"
+msgstr ""
+
+#: kdebase3.spec.cpp:508
+msgid "Emails"
+msgstr ""
+
+#: kdebase3.spec.cpp:514
+msgid "Music"
+msgstr ""
+
+#: kdebase3.spec.cpp:517
+msgid "Browsing History"
+msgstr ""
+
+#: kdebase3.spec.cpp:520
+msgid "Chat Logs"
+msgstr ""
+
+#: kdebase3.spec.cpp:523
+msgid "Feeds"
+msgstr ""
+
+#: kdebase3.spec.cpp:526
+msgid "Pictures"
+msgstr ""
+
+#: kdebase3.spec.cpp:529
+msgid "Videos"
+msgstr ""
+
+#: kdebase3.spec.cpp:532
+msgid "Documentation"
+msgstr ""
+
+#: kdebase3.spec.cpp:535
+#, fuzzy
+msgid "Others"
+msgstr "Version"
+
+#: kdebase3.spec.cpp:538
+msgid "Low Disk Space"
+msgstr ""
+
+#: kdebase3.spec.cpp:541
+msgid "Start Konqueror"
+msgstr ""
+
+#: kdebase3.spec.cpp:544
+msgid "You are running low on disk space on your home partition (currently %1% free), would you like to run Konqueror to free some disk space and fix the problem?"
+msgstr ""
+
+#: kdebase3.spec.cpp:547
+msgid "<qt><h3>End Current Session</h3><p>Log out of the current session to login with a different user</p></qt>"
+msgstr ""
+
+#: kdebase3.spec.cpp:550
+msgid "<qt><h3>Turn Off Computer</h3><p>Log out of the current session and turn off the computer</p></qt>"
+msgstr ""
+
+#: kdebase3.spec.cpp:553
+msgid "<qt><h3>Restart Computer</h3><p>Log out of the current session and restart the computer</p><p>Hold the mouse button or the space bar for a short while to get a list of options what to boot</p></qt>"
+msgstr ""
+
+#: kdebase3.spec.cpp:556
+msgid "<qt><h3>Restart Computer</h3><p>Log out of the current session and restart the computer</p></qt>"
+msgstr ""
+
+#: kdebase3.spec.cpp:559
+#, fuzzy
+msgid "Would you like to turn off your computer?"
+msgstr "Do you really want to use this path?"
+
+#: kdebase3.spec.cpp:562
+msgid ""
+"This computer will turn off automatically\n"
+"after %1 seconds."
+msgstr ""
+
+#: kdebase3.spec.cpp:565
+msgid "Would you like to reboot your computer?"
+msgstr ""
+
+#: kdebase3.spec.cpp:568
+msgid "Would you like to reboot to \"%1\"?"
+msgstr ""
+
+#: kdebase3.spec.cpp:571
+msgid ""
+"This computer will reboot automatically\n"
+"after %1 seconds."
+msgstr ""
+
+#: kdebase3.spec.cpp:574
+#, fuzzy
+msgid "Would you like to end your current session?"
+msgstr "Do you really want to use this path?"
+
+#: kdebase3.spec.cpp:577
+msgid ""
+"This session will end\n"
+"after %1 seconds automatically."
+msgstr ""
+
+#: kdebase3.spec.cpp:580
+msgid "Unable to start ksplashx."
+msgstr ""
+
+#: kdebase3.spec.cpp:583 xinerama.cpp:1
+msgid "S&eparate screen focus"
+msgstr ""
+
+#: kdebase3.spec.cpp:586 xinerama.cpp:2
+msgid "When this option is enabled, focus operations are limited only to the active Xinerama screen"
+msgstr ""
+
+#: kdebase3.spec.cpp:589 xinerama.cpp:3
+msgid "Active &mouse screen"
+msgstr ""
+
+#: kdebase3.spec.cpp:592 xinerama.cpp:4
+msgid "When this option is enabled, active Xinerama screen (where for example new windows appear) is the screen with the mouse pointer. When disabled, the active Xinerama screen is the screen with the focused window. This option is by default disabled for Click to focus and enabled for other focus policies."
+msgstr ""
+
+#: kdebase3.spec.cpp:595 xinerama.cpp:8
+msgid "Window to Screen 0"
+msgstr ""
+
+#: kdebase3.spec.cpp:598 xinerama.cpp:9
+msgid "Window to Screen 1"
+msgstr ""
+
+#: kdebase3.spec.cpp:601 xinerama.cpp:10
+msgid "Window to Screen 2"
+msgstr ""
+
+#: kdebase3.spec.cpp:604 xinerama.cpp:11
+msgid "Window to Screen 3"
+msgstr ""
+
+#: kdebase3.spec.cpp:607 xinerama.cpp:12
+msgid "Window to Screen 4"
+msgstr ""
+
+#: kdebase3.spec.cpp:610 xinerama.cpp:13
+msgid "Window to Screen 5"
+msgstr ""
+
+#: kdebase3.spec.cpp:613 xinerama.cpp:14
+msgid "Window to Screen 6"
+msgstr ""
+
+#: kdebase3.spec.cpp:616 xinerama.cpp:15
+msgid "Window to Screen 7"
+msgstr ""
+
+#: kdebase3.spec.cpp:619 xinerama.cpp:16
+msgid "Window to Next Screen"
+msgstr ""
+
+#: kdebase3.spec.cpp:622 xinerama.cpp:17
+msgid "Switch to Screen 0"
+msgstr ""
+
+#: kdebase3.spec.cpp:625 xinerama.cpp:18
+msgid "Switch to Screen 1"
+msgstr ""
+
+#: kdebase3.spec.cpp:628 xinerama.cpp:19
+msgid "Switch to Screen 2"
+msgstr ""
+
+#: kdebase3.spec.cpp:631 xinerama.cpp:20
+msgid "Switch to Screen 3"
+msgstr ""
+
+#: kdebase3.spec.cpp:634 xinerama.cpp:21
+msgid "Switch to Screen 4"
+msgstr ""
+
+#: kdebase3.spec.cpp:637 xinerama.cpp:22
+msgid "Switch to Screen 5"
+msgstr ""
+
+#: kdebase3.spec.cpp:640 xinerama.cpp:23
+msgid "Switch to Screen 6"
+msgstr ""
+
+#: kdebase3.spec.cpp:643 xinerama.cpp:24
+msgid "Switch to Screen 7"
+msgstr ""
+
+#: kdebase3.spec.cpp:646 xinerama.cpp:25
+msgid "Switch to Next Screen"
+msgstr ""
+
+#: kdebase3.spec.cpp:649
+msgid "Start menu style:"
+msgstr ""
+
+#: kdebase3.spec.cpp:652
+msgid "SUSE"
+msgstr ""
+
+#: kdebase3.spec.cpp:655
+msgid "KDE"
+msgstr ""
+
+#: kdebase3.spec.cpp:658
+msgid "Open menu on mouse hover"
+msgstr ""
+
+#: kdebase3.spec.cpp:661
+#, fuzzy
+msgid "Name (&Description)"
+msgstr "Description"
+
+#: kdebase3.spec.cpp:664
+msgid "When this option is selected, items in the K Menu will appear with the application's name and a brief description in brackets next to the icon."
+msgstr ""
+
+#: kdebase3.spec.cpp:667
+msgid "Alt+I"
+msgstr ""
+
+#: kdebase3.spec.cpp:670
+msgid "Alt+F"
+msgstr ""
+
+#: kdebase3.spec.cpp:673
+msgid "Alt+P"
+msgstr ""
+
+#: kdebase3.spec.cpp:676
+msgid "Alt+M"
+msgstr ""
+
+#: kdebase3.spec.cpp:679
+#, fuzzy
+msgid "Preferred Window Manager:"
+msgstr "Preference management"
+
+#: kdebase3.spec.cpp:682
+msgid "KMenu"
+msgstr ""
+
+#: kdebase3.spec.cpp:685
+msgid "MShadow"
+msgstr ""
+
+#: kdebase3.spec.cpp:688
+msgid "MShape"
+msgstr ""
+
+#: kdebase3.spec.cpp:691
+#, fuzzy
+msgid "Search:"
+msgstr "Arch: "
+
+#: kdebase3.spec.cpp:694
+msgid "User&nbsp;<b>user</b>&nbsp;on&nbsp;<b>host</b>"
+msgstr ""
+
+#: kdebase3.spec.cpp:697
+msgid "KMenuItemBase"
+msgstr ""
+
+#: kdebase3.spec.cpp:700
+msgid "Would you like to shutdown your computer?"
+msgstr ""
+
+#: kdebase3.spec.cpp:703
+msgid ""
+"If you do not act, your computer will shutdown\n"
+"after X automatically."
+msgstr ""
+
+#: kdebase3.spec.cpp:706
+#, fuzzy
+msgid "Confirm"
+msgstr "Conflict"
+
+#: kdelibs3.spec.cpp:2
+msgid "Conversion to KDEMM"
+msgstr ""
+
+#: kdelibs3.spec.cpp:6
+msgid "&Edit History..."
+msgstr ""
+
+#: kdelibs3.spec.cpp:9
+msgid "History Editor"
+msgstr ""
+
+#: kdelibs3.spec.cpp:12
+#, fuzzy
+msgid "&Delete Entry"
+msgstr "Delete users"
+
+#: kdelibs3.spec.cpp:15
+msgid "This dialog allows you to delete unwanted history items."
+msgstr ""
+
+#: kdelibs3.spec.cpp:18
+#, fuzzy
+msgid "Clear Search"
+msgstr "Arch: "
+
+#: kdelibs3.spec.cpp:21
+#, fuzzy
+msgid "&Search:"
+msgstr "Arch: "
+
+#: kdelibs3.spec.cpp:24 kfile-beagle.cpp:2
+#, fuzzy
+msgid "search term"
+msgstr "Search by user"
+
+#: kdelibs3.spec.cpp:27 kfile-beagle.cpp:1
+msgid "Desktop Search"
+msgstr ""
+
+#: kdelibs3.spec.cpp:30
+msgid ""
+"Could not access %1.\n"
+"Offline mode active."
+msgstr ""
+
+#: kdepim3.spec.cpp:2
+#, fuzzy, c-format
+msgid ""
+"Cannot open audio file:\n"
+"%1"
+msgstr "Couldn't open file: %s."
+
+#: kdepim3.spec.cpp:5
+msgid "Stop sound"
+msgstr ""
+
+#: kdepim3.spec.cpp:8
+msgid "Stop playing the sound"
+msgstr ""
+
+#: kdepim3.spec.cpp:11
+msgid "<qt><p>KMail does not support attaching files bigger than 30 MB.</p>"
+msgstr ""
+
+#: kdepim3.spec.cpp:14
+msgid "KMail is now offline; all network operations cancelled"
+msgstr ""
+
+#: kdepim3.spec.cpp:17
+msgid "KMail is now online; network operations resumed"
+msgstr ""
+
+#: mediamanager.cpp:1
+msgid "Access time updates"
+msgstr ""
+
+#: mediamanager.cpp:2
+msgid "All Data"
+msgstr ""
+
+#: mediamanager.cpp:3
+msgid "All I/O to the file system should be done synchronously."
+msgstr ""
+
+#: mediamanager.cpp:4
+#, fuzzy
+msgid "Device is already mounted."
+msgstr "'{0}' is already installed."
+
+#: mediamanager.cpp:5
+msgid "Device is Busy:"
+msgstr ""
+
+#: mediamanager.cpp:6
+msgid "Feature only available with HAL"
+msgstr ""
+
+#: mediamanager.cpp:7
+#, fuzzy, c-format
+msgid "Filesystem: %1"
+msgstr "system"
+
+#: mediamanager.cpp:8
+msgid "Filesystem: iso9660"
+msgstr ""
+
+#: mediamanager.cpp:9
+msgid "Filesystem Specific Mount Options"
+msgstr ""
+
+#: mediamanager.cpp:10
+msgid "Flushed IO"
+msgstr ""
+
+#: mediamanager.cpp:11
+#, fuzzy
+msgid "Generic Mount Options"
+msgstr "General Options:"
+
+#: mediamanager.cpp:12
+msgid "Internal Error"
+msgstr ""
+
+#: mediamanager.cpp:13
+#, fuzzy
+msgid "Invalid filesystem type"
+msgstr "Invalid preference type"
+
+#: mediamanager.cpp:14
+#, fuzzy
+msgid "Journaling:"
+msgstr "Mounting: "
+
+#: mediamanager.cpp:15
+msgid "Lower"
+msgstr ""
+
+#: mediamanager.cpp:16
+msgid "Mixed"
+msgstr ""
+
+#: mediamanager.cpp:17
+msgid "Mount as user"
+msgstr ""
+
+#: mediamanager.cpp:18
+msgid "Mount automatically"
+msgstr ""
+
+#: mediamanager.cpp:19
+#, fuzzy
+msgid "&Mounting"
+msgstr "Mounting: "
+
+#: mediamanager.cpp:20
+msgid "Mount label:"
+msgstr ""
+
+#: mediamanager.cpp:21
+#, fuzzy
+msgid "Mountpoint:"
+msgstr "Mounting: "
+
+#: mediamanager.cpp:22
+msgid "Mountpoint has to be below /media"
+msgstr ""
+
+#: mediamanager.cpp:23
+msgid "Mount the file system read-only."
+msgstr ""
+
+#: mediamanager.cpp:24
+msgid "Mount this file system as user."
+msgstr ""
+
+#: mediamanager.cpp:25
+msgid "Mount this file system automatically."
+msgstr ""
+
+#: mediamanager.cpp:26
+#, c-format
+msgid "No such medium: %1"
+msgstr ""
+
+#: mediamanager.cpp:27
+msgid "Ordered"
+msgstr ""
+
+#: mediamanager.cpp:28
+#, fuzzy
+msgid "Permissions denied"
+msgstr "Permission denied"
+
+#: mediamanager.cpp:29
+msgid "PropertiesPageGUI"
+msgstr ""
+
+#: mediamanager.cpp:30
+msgid "Quiet"
+msgstr ""
+
+#: mediamanager.cpp:31
+msgid "Read only"
+msgstr ""
+
+#: mediamanager.cpp:32
+#, fuzzy
+msgid "Saving the changes failed"
+msgstr "Saving all changes."
+
+#: mediamanager.cpp:33
+msgid "Short names:"
+msgstr ""
+
+#: mediamanager.cpp:34
+msgid "Synchronous"
+msgstr ""
+
+#: mediamanager.cpp:35
+msgid "The option 'flush' is not allowed"
+msgstr ""
+
+#: mediamanager.cpp:36
+msgid "Under what label this file system shall be mounted."
+msgstr ""
+
+#: mediamanager.cpp:37
+msgid "Update inode access time for each access."
+msgstr ""
+
+#: mediamanager.cpp:38
+msgid "UTF-8 charset"
+msgstr ""
+
+#: mediamanager.cpp:39
+msgid "Windows 95"
+msgstr ""
+
+#: mediamanager.cpp:40
+msgid "Windows NT"
+msgstr ""
+
+#: mediamanager.cpp:41
+msgid "Write Back"
+msgstr ""
+
+#: mediamanager.cpp:42
+msgid "Attempts to chown or chmod files do not return errors, although they fail. Use with caution!"
+msgstr ""
+
+#: mediamanager.cpp:43
+msgid "Under what directory this file system shall be mounted. Please note that there is no guarantee that the system will respect your wish. For one the directory has to be below /media - and it does not yet have to exist."
+msgstr ""
+
+#: mediamanager.cpp:46
+msgid "Always flush all data to the hot plug devices immediately and don't cache it."
+msgstr ""
+
+#: mediamanager.cpp:47
+msgid "UTF8 is the filesystem safe 8-bit encoding of Unicode that is used by the console. It can be be enabled for the filesystem with this option."
+msgstr ""
+
+#: mediamanager.cpp:49
+msgid ""
+"<h2>Specifies  the journalling mode for file data. Metadata is always journaled. </h2>\n"
+"           \n"
+"<h3><b>All Data</b></h3>\n"
+"           All  data  is  committed into the journal prior to being written into the main file system. This is the slowest variant with the highest data security.\n"
+"\n"
+"<h3><b>Ordered</b></h3>\n"
+"           All data is forced directly out to the main  file system prior to its metadata being committed to the journal.\n"
+"\n"
+"<h3><b>Write Back</b></h3>\n"
+"           Data ordering is not preserved - data may be written into the main file system after its metadata has been committed to the journal.  This is rumoured to  be the  highest-throughput option.  It guarantees internal file system integrity,  however it can allow old data to appear in files after  a  crash  and  journal recovery."
+msgstr ""
+
+#: mediamanager.cpp:67
+msgid ""
+"<h2>Defines  the  behaviour  for  creation and display of filenames which fit into 8.3 characters. If a long name for a file exists, it will always be preferred display.</h2>\n"
+"\n"
+"<h3><b>Lower</b></h3>\n"
+"Force the short name to lower case upon display; store a long name when the short name is not all upper case.\n"
+"\n"
+"<h3><b>Windows 95</b></h3>\n"
+"Force the short name to upper case upon display; store a long name when the short name is not all upper case.\n"
+"\n"
+"<h3><b>Windows NT</b></h3>\n"
+"Display the shortname as is; store a long name when the short name is not all lower case or all upper case.\n"
+"\n"
+"<h3><b>Mixed</b></h3>\n"
+"Display the short name as is; store a long name when the short name is not all upper case."
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:2 qt3-extensions.spec.cpp:2 qt3-static.spec.cpp:2
+#: qt3.spec.cpp:2
+msgid "Select Input &Method"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:5 qt3-extensions.spec.cpp:5 qt3-static.spec.cpp:5
+#: qt3.spec.cpp:5
+msgid "Multiple Input Method Switcher"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:8 qt3-extensions.spec.cpp:8 qt3-static.spec.cpp:8
+#: qt3.spec.cpp:8
+msgid "Multiple input method switcher that uses the context menu of the text widgets"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:11 qt3-extensions.spec.cpp:11 qt3-static.spec.cpp:11
+#: qt3.spec.cpp:11
+msgid "Dummy Input Method Switcher"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:14 qt3-extensions.spec.cpp:14 qt3-static.spec.cpp:14
+#: qt3.spec.cpp:14
+msgid "Dummy input method switcher that uses the context menu of the text widgets"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:17 qt3-extensions.spec.cpp:17 qt3-static.spec.cpp:17
+#: qt3.spec.cpp:17
+msgid "Simple Composing Input Method"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:20 qt3-extensions.spec.cpp:20 qt3-static.spec.cpp:20
+#: qt3.spec.cpp:20
+msgid "Simple composing input method"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:23 qt3-extensions.spec.cpp:23 qt3-static.spec.cpp:23
+#: qt3.spec.cpp:23
+msgid "XIM"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:26 qt3-extensions.spec.cpp:26 qt3-static.spec.cpp:26
+#: qt3.spec.cpp:26
+msgid "XIM input method"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:29 qt3-extensions.spec.cpp:29 qt3-static.spec.cpp:29
+#: qt3.spec.cpp:29
+msgid "Unknown Input Method"
+msgstr ""
+
+#: qt3-devel-doc.spec.cpp:32 qt3-extensions.spec.cpp:32 qt3-static.spec.cpp:32
+#: qt3.spec.cpp:32
+msgid "Default Input Method:"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Link key directory:"
+#~ msgstr "Recurse into the directory"
+
+#, fuzzy
+#~ msgid "Search for personal files and applications"
+#~ msgstr "Search for uninstalled packages"
+
+#, fuzzy
+#~ msgid "Do you really want to pause the computer without logging out?"
+#~ msgstr "Do you really want to use this path?"
+
+#, fuzzy
+#~ msgid "Suspend Confirmation"
+#~ msgstr "No confirmation"
+
+#~ msgid "System"
+#~ msgstr "System"
+
+#~ msgid "Advanced"
+#~ msgstr "Advanced"
+
+#, fuzzy
+#~ msgid "Please enter your password."
+#~ msgstr "Program to Profile"
+
+#, fuzzy
+#~ msgid "Animations"
+#~ msgstr "No confirmation"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#, fuzzy
+#~ msgid "Unable to eject media."
+#~ msgstr "Unable to determine target"
+
+#, fuzzy
+#~ msgid "Obsolete"
+#~ msgstr "Obsoletes"
+
+#, fuzzy
+#~ msgid "C&hange..."
+#~ msgstr "Changes: "
+
+#, fuzzy
+#~ msgid "Authorization Dialog"
+#~ msgstr "Authorization failed"

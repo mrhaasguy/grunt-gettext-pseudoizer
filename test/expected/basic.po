@@ -1,0 +1,1478 @@
+# English translations for subdomain_parser package.
+# Copyright (C) 2005 Immunix, Inc.
+# This file is distributed under the same license as the subdomain_parser package.
+# Steve Beattie <steve@immunix.com>, 2005.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: subdomain-parser 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-07-20 15:59+0200\n"
+"PO-Revision-Date: 2005-11-08 12:26+8\n"
+"Last-Translator: Steve Beattie <steve@immunix.com>\n"
+"Language: \n"
+"Language-Team: English\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+#: china.cpp:2
+msgid "Country or region:"
+msgstr "[Ĉǒʊƞƭɾɣ ǒɾ ɾȅɠɨǒƞ:!!! !!]"
+
+#: china.cpp:3 china.cpp:13
+msgid "Here you can choose your country or region. The settings for languages, numbers etc. will automatically switch to the corresponding values."
+msgstr "[Ĥȅɾȅ ɣǒʊ ĉăƞ ĉɧǒǒšȅ ɣǒʊɾ ĉǒʊƞƭɾɣ ǒɾ ɾȅɠɨǒƞ. Ҭɧȅ šȅƭƭɨƞɠš ƒǒɾ ļăƞɠʊăɠȅš, ƞʊɱɓȅɾš ȅƭĉ. ɯɨļļ ăʊƭǒɱăƭɨĉăļļɣ šɯɨƭĉɧ ƭǒ ƭɧȅ ĉǒɾɾȅšρǒƞɗɨƞɠ ʋăļʊȅš.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: china.cpp:5
+msgid ""
+"<h1>Country/Region & Language</h1>\n"
+"<p>From here you can configure language, numeric, and time \n"
+"settings for your particular region. In most cases it will be \n"
+"sufficient to choose the country you live in. For instance KDE \n"
+"will automatically choose \"German\" as language if you choose \n"
+"\"Germany\" from the list. It will also change the time format \n"
+"to use 24 hours and and use comma as decimal separator.</p>\n"
+""
+msgstr ""
+"[<ɧ1>Ĉǒʊƞƭɾɣ/Ʀȅɠɨǒƞ & £ăƞɠʊăɠȅ</ɧ1>\n"
+"<ρ>Ƒɾǒɱ ɧȅɾȅ ɣǒʊ ĉăƞ ĉǒƞƒɨɠʊɾȅ ļăƞɠʊăɠȅ, ƞʊɱȅɾɨĉ, ăƞɗ ƭɨɱȅ \n"
+"šȅƭƭɨƞɠš ƒǒɾ ɣǒʊɾ ρăɾƭɨĉʊļăɾ ɾȅɠɨǒƞ. Ĩƞ ɱǒšƭ ĉăšȅš ɨƭ ɯɨļļ ɓȅ \n"
+"šʊƒƒɨĉɨȅƞƭ ƭǒ ĉɧǒǒšȅ ƭɧȅ ĉǒʊƞƭɾɣ ɣǒʊ ļɨʋȅ ɨƞ. Ƒǒɾ ɨƞšƭăƞĉȅ ЌĎƩ \n"
+"ɯɨļļ ăʊƭǒɱăƭɨĉăļļɣ ĉɧǒǒšȅ \"Ɠȅɾɱăƞ\" ăš ļăƞɠʊăɠȅ ɨƒ ɣǒʊ ĉɧǒǒšȅ \n"
+"\"Ɠȅɾɱăƞɣ\" ƒɾǒɱ ƭɧȅ ļɨšƭ. Ĩƭ ɯɨļļ ăļšǒ ĉɧăƞɠȅ ƭɧȅ ƭɨɱȅ ƒǒɾɱăƭ \n"
+"ƭǒ ʊšȅ 24 ɧǒʊɾš ăƞɗ ăƞɗ ʊšȅ ĉǒɱɱă ăš ɗȅĉɨɱăļ šȅρăɾăƭǒɾ.</ρ>\n"
+"!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!]"
+
+#: china.cpp:12
+msgid "This is where you live. KDE will use the defaults for this country or region."
+msgstr "[Ҭɧɨš ɨš ɯɧȅɾȅ ɣǒʊ ļɨʋȅ. ЌĎƩ ɯɨļļ ʊšȅ ƭɧȅ ɗȅƒăʊļƭš ƒǒɾ ƭɧɨš ĉǒʊƞƭɾɣ ǒɾ ɾȅɠɨǒƞ.!!! !!! !!! !!! !!! !!! !!!]"
+
+#: dirfilter.cpp:1 kdeaddons3.spec.cpp:3
+msgid "Filter This Folder"
+msgstr "[Ƒɨļƭȅɾ Ҭɧɨš Ƒǒļɗȅɾ!!! !!]"
+
+#: dirfilter.cpp:2 kdeaddons3.spec.cpp:7 kdebase3.spec.cpp:310
+#, fuzzy
+msgid "Search Index"
+msgstr "[Ѕȅăɾĉɧ Ĩƞɗȅϰ!!! ]"
+
+#: dirfilter.cpp:3 kdeaddons3.spec.cpp:10
+msgid "Enter here a text which shall be searched on the whole system in the Beagle index."
+msgstr "[Ʃƞƭȅɾ ɧȅɾȅ ă ƭȅϰƭ ɯɧɨĉɧ šɧăļļ ɓȅ šȅăɾĉɧȅɗ ǒƞ ƭɧȅ ɯɧǒļȅ šɣšƭȅɱ ɨƞ ƭɧȅ ßȅăɠļȅ ɨƞɗȅϰ.!!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kaffeine.spec.cpp:2
+msgid ""
+"This version of Xine (used by Kaffeine) has only a reduced\n"
+"set of supported codecs. It is not able to play DVDs.\n"
+"Read http://en.opensuse.org/XINE for further details."
+msgstr ""
+"[Ҭɧɨš ʋȅɾšɨǒƞ ǒƒ Жɨƞȅ (ʊšȅɗ ɓɣ Ќăƒƒȅɨƞȅ) ɧăš ǒƞļɣ ă ɾȅɗʊĉȅɗ\n"
+"šȅƭ ǒƒ šʊρρǒɾƭȅɗ ĉǒɗȅĉš. Ĩƭ ɨš ƞǒƭ ăɓļȅ ƭǒ ρļăɣ ĎѶĎš.\n"
+"Ʀȅăɗ ɧƭƭρ://ȅƞ.ǒρȅƞšʊšȅ.ǒɾɠ/ЖĨƝƩ ƒǒɾ ƒʊɾƭɧȅɾ ɗȅƭăɨļš.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!]"
+
+#: kaffeine.spec.cpp:5
+msgid "No WIN32 codecs found in /usr/lib/win32. You're not able to play Windows Media 9 files, newer Real Media files and some less common formats."
+msgstr "[Ɲǒ ƜĨƝ32 ĉǒɗȅĉš ƒǒʊƞɗ ɨƞ /ʊšɾ/ļɨɓ/ɯɨƞ32. ¥ǒʊ'ɾȅ ƞǒƭ ăɓļȅ ƭǒ ρļăɣ Ɯɨƞɗǒɯš ʍȅɗɨă 9 ƒɨļȅš, ƞȅɯȅɾ Ʀȅăļ ʍȅɗɨă ƒɨļȅš ăƞɗ šǒɱȅ ļȅšš ĉǒɱɱǒƞ ƒǒɾɱăƭš.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kaffeine.spec.cpp:8
+msgid "libdvdcss not found. You're not able to play encrypted (most commercial) DVD's."
+msgstr "[ļɨɓɗʋɗĉšš ƞǒƭ ƒǒʊƞɗ. ¥ǒʊ'ɾȅ ƞǒƭ ăɓļȅ ƭǒ ρļăɣ ȅƞĉɾɣρƭȅɗ (ɱǒšƭ ĉǒɱɱȅɾĉɨăļ) ĎѶĎ'š.!!! !!! !!! !!! !!! !!! !!! ]"
+
+#: kaffeine.spec.cpp:11
+msgid "The xine-lib shipped by SuSE \"may lack certain features because of legal requirements (potential patent violation)\"."
+msgstr "[Ҭɧȅ ϰɨƞȅ-ļɨɓ šɧɨρρȅɗ ɓɣ ЅʊЅƩ \"ɱăɣ ļăĉķ ĉȅɾƭăɨƞ ƒȅăƭʊɾȅš ɓȅĉăʊšȅ ǒƒ ļȅɠăļ ɾȅƣʊɨɾȅɱȅƞƭš (ρǒƭȅƞƭɨăļ ρăƭȅƞƭ ʋɨǒļăƭɨǒƞ)\".!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kconfigeditor.spec.cpp:2
+msgid "Parsing configuration files..."
+msgstr "[Ƥăɾšɨƞɠ ĉǒƞƒɨɠʊɾăƭɨǒƞ ƒɨļȅš...!!! !!! !!!]"
+
+#: kconfigeditor.spec.cpp:5
+msgid "Application ready"
+msgstr "[Ăρρļɨĉăƭɨǒƞ ɾȅăɗɣ!!! !!]"
+
+#: kdeaddons3.spec.cpp:13 searchbar.cpp:1
+msgid "Use Google Suggest"
+msgstr "[Ǔšȅ Ɠǒǒɠļȅ Ѕʊɠɠȅšƭ!!! !!]"
+
+#: kdeaddons3.spec.cpp:16 searchbar.cpp:2
+msgid "For Google Only"
+msgstr "[Ƒǒɾ Ɠǒǒɠļȅ Ǒƞļɣ!!! !]"
+
+#: kdeaddons3.spec.cpp:19 searchbar.cpp:3
+msgid "For All Searches"
+msgstr "[Ƒǒɾ Ăļļ Ѕȅăɾĉɧȅš!!! !!]"
+
+#: kdeaddons3.spec.cpp:22 searchbar.cpp:4
+#, fuzzy
+msgid "Never"
+msgstr "[Ɲȅʋȅɾ!!]"
+
+#: kdebase3.spec.cpp:2
+msgid "&Enable specific display power management"
+msgstr "[&Ʃƞăɓļȅ šρȅĉɨƒɨĉ ɗɨšρļăɣ ρǒɯȅɾ ɱăƞăɠȅɱȅƞƭ!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:5
+msgid "Configure KPowersave..."
+msgstr "[Ĉǒƞƒɨɠʊɾȅ ЌƤǒɯȅɾšăʋȅ...!!! !!! ]"
+
+#: kdebase3.spec.cpp:8
+msgid "XFree theme %1 - incomplete for KDE"
+msgstr "[ЖƑɾȅȅ ƭɧȅɱȅ %1 - ɨƞĉǒɱρļȅƭȅ ƒǒɾ ЌĎƩ!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:11
+msgid "Change settings only for current session"
+msgstr "[Ĉɧăƞɠȅ šȅƭƭɨƞɠš ǒƞļɣ ƒǒɾ ĉʊɾɾȅƞƭ šȅššɨǒƞ!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:14
+msgid "If this option is enabled the size and orientation settings will be only changed for the current session."
+msgstr "[Ĩƒ ƭɧɨš ǒρƭɨǒƞ ɨš ȅƞăɓļȅɗ ƭɧȅ šɨʐȅ ăƞɗ ǒɾɨȅƞƭăƭɨǒƞ šȅƭƭɨƞɠš ɯɨļļ ɓȅ ǒƞļɣ ĉɧăƞɠȅɗ ƒǒɾ ƭɧȅ ĉʊɾɾȅƞƭ šȅššɨǒƞ.!!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:17
+msgid "Please enter the Administrator (root) password to continue."
+msgstr "[Ƥļȅăšȅ ȅƞƭȅɾ ƭɧȅ Ăɗɱɨƞɨšƭɾăƭǒɾ (ɾǒǒƭ) ρăššɯǒɾɗ ƭǒ ĉǒƞƭɨƞʊȅ.!!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:20
+#, fuzzy
+msgid "Please enter password for \"%1\" to continue."
+msgstr "[Ƥļȅăšȅ ȅƞƭȅɾ ρăššɯǒɾɗ ƒǒɾ \"%1\" ƭǒ ĉǒƞƭɨƞʊȅ.!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:26
+msgid "&Suspend Computer"
+msgstr "[&Ѕʊšρȅƞɗ Ĉǒɱρʊƭȅɾ!!! !!]"
+
+#: kdebase3.spec.cpp:31
+msgid "Suspend to Disk"
+msgstr "[Ѕʊšρȅƞɗ ƭǒ Ďɨšķ!!! !]"
+
+#: kdebase3.spec.cpp:36
+msgid "Suspend to RAM"
+msgstr "[Ѕʊšρȅƞɗ ƭǒ ƦĂʍ!!! !]"
+
+#: kdebase3.spec.cpp:41
+msgid "Standby"
+msgstr "[Ѕƭăƞɗɓɣ!!]"
+
+#: kdebase3.spec.cpp:45
+msgid "Suspend Computer"
+msgstr "[Ѕʊšρȅƞɗ Ĉǒɱρʊƭȅɾ!!! !!]"
+
+#: kdebase3.spec.cpp:48
+msgid "&Language"
+msgstr "[&£ăƞɠʊăɠȅ!!!]"
+
+#: kdebase3.spec.cpp:51
+#, fuzzy
+msgid "&System"
+msgstr "[&Ѕɣšƭȅɱ!!]"
+
+#: kdebase3.spec.cpp:54
+msgid "&Administration"
+msgstr "[&Ăɗɱɨƞɨšƭɾăƭɨǒƞ!!! !]"
+
+#: kdebase3.spec.cpp:57
+msgid "&Disconnect"
+msgstr "[&Ďɨšĉǒƞƞȅĉƭ!!! ]"
+
+#: kdebase3.spec.cpp:63
+msgid "Power O&ff"
+msgstr "[Ƥǒɯȅɾ Ǒ&ƒƒ!!! ]"
+
+#: kdebase3.spec.cpp:66
+msgid "S&uspend"
+msgstr "[Ѕ&ʊšρȅƞɗ!!!]"
+
+#: kdebase3.spec.cpp:69
+msgid "&Reboot"
+msgstr "[&Ʀȅɓǒǒƭ!!]"
+
+#: kdebase3.spec.cpp:72
+#, fuzzy
+msgid "Caps Lock is enabled."
+msgstr "[Ĉăρš £ǒĉķ ɨš ȅƞăɓļȅɗ.!!! !!!]"
+
+#: kdebase3.spec.cpp:75
+#, c-format
+msgid "User %s will log in in %d seconds"
+msgstr "[Ǔšȅɾ %š ɯɨļļ ļǒɠ ɨƞ ɨƞ %ɗ šȅĉǒƞɗš!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:78
+#, fuzzy
+msgid "&Username:"
+msgstr "[&Ǔšȅɾƞăɱȅ:!!! ]"
+
+#: kdebase3.spec.cpp:81
+#, fuzzy
+msgid "&Password:"
+msgstr "[&Ƥăššɯǒɾɗ:!!! ]"
+
+#: kdebase3.spec.cpp:84
+msgid "&Domain:"
+msgstr "[&Ďǒɱăɨƞ:!!!]"
+
+#: kdebase3.spec.cpp:87
+msgid "&Top"
+msgstr "[&Ҭǒρ!]"
+
+#: kdebase3.spec.cpp:90
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ă ɧǒɱȅ ρăɠȅ ǒɾ ƭɧȅ ƭǒρ ǒƒ šǒɱȅ ɧɨȅɾăɾĉɧɣ.</ρ>!!! !!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:93
+msgid "<p>This link references the immediate parent of the current document.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ɨɱɱȅɗɨăƭȅ ρăɾȅƞƭ ǒƒ ƭɧȅ ĉʊɾɾȅƞƭ ɗǒĉʊɱȅƞƭ.</ρ>!!! !!! !!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:96
+msgid "&First"
+msgstr "[&Ƒɨɾšƭ!!]"
+
+#: kdebase3.spec.cpp:99
+msgid "<p>This link type tells search engines which document is considered by the author to be the starting point of the collection.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ƭɣρȅ ƭȅļļš šȅăɾĉɧ ȅƞɠɨƞȅš ɯɧɨĉɧ ɗǒĉʊɱȅƞƭ ɨš ĉǒƞšɨɗȅɾȅɗ ɓɣ ƭɧȅ ăʊƭɧǒɾ ƭǒ ɓȅ ƭɧȅ šƭăɾƭɨƞɠ ρǒɨƞƭ ǒƒ ƭɧȅ ĉǒļļȅĉƭɨǒƞ.</ρ>!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:105
+msgid "<p>This link references the previous document in an ordered series of documents.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ρɾȅʋɨǒʊš ɗǒĉʊɱȅƞƭ ɨƞ ăƞ ǒɾɗȅɾȅɗ šȅɾɨȅš ǒƒ ɗǒĉʊɱȅƞƭš.</ρ>!!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:108
+#, fuzzy
+msgid "&Next"
+msgstr "[&Ɲȅϰƭ!!]"
+
+#: kdebase3.spec.cpp:111
+msgid "<p>This link references the next document in an ordered series of documents.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ƞȅϰƭ ɗǒĉʊɱȅƞƭ ɨƞ ăƞ ǒɾɗȅɾȅɗ šȅɾɨȅš ǒƒ ɗǒĉʊɱȅƞƭš.</ρ>!!! !!! !!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:114
+msgid "&Last"
+msgstr "[&£ăšƭ!!]"
+
+#: kdebase3.spec.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ȅƞɗ ǒƒ ă šȅƣʊȅƞĉȅ ǒƒ ɗǒĉʊɱȅƞƭš.</ρ>!!! !!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:120
+msgid "<p>This link references the search.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ šȅăɾĉɧ.</ρ>!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:123
+msgid "Document"
+msgstr "[Ďǒĉʊɱȅƞƭ!!!]"
+
+#: kdebase3.spec.cpp:126
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "[<ρ>Ҭɧɨš ɱȅƞʊ ĉǒƞƭăɨƞš ƭɧȅ ļɨƞķš ɾȅƒȅɾɾɨƞɠ ƭɧȅ ɗǒĉʊɱȅƞƭ ɨƞƒǒɾɱăƭɨǒƞ.</ρ>!!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:129
+msgid "<p>This link references the table of contents.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ƭăɓļȅ ǒƒ ĉǒƞƭȅƞƭš.</ρ>!!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:132
+msgid "Chapters"
+msgstr "[Ĉɧăρƭȅɾš!!!]"
+
+#: kdebase3.spec.cpp:135
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "[<ρ>Ҭɧɨš ɱȅƞʊ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ĉɧăρƭȅɾš ǒƒ ƭɧȅ ɗǒĉʊɱȅƞƭ.</ρ>!!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:138
+msgid "Sections"
+msgstr "[Ѕȅĉƭɨǒƞš!!!]"
+
+#: kdebase3.spec.cpp:141
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "[<ρ>Ҭɧɨš ɱȅƞʊ ɾȅƒȅɾȅƞĉȅš ƭɧȅ šȅĉƭɨǒƞš ǒƒ ƭɧȅ ɗǒĉʊɱȅƞƭ.</ρ>!!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:144
+msgid "Subsections"
+msgstr "[Ѕʊɓšȅĉƭɨǒƞš!!! ]"
+
+#: kdebase3.spec.cpp:147
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "[<ρ>Ҭɧɨš ɱȅƞʊ ɾȅƒȅɾȅƞĉȅš ƭɧȅ šʊɓšȅĉƭɨǒƞš ǒƒ ƭɧȅ ɗǒĉʊɱȅƞƭ.</ρ>!!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:150
+msgid "Appendix"
+msgstr "[Ăρρȅƞɗɨϰ!!!]"
+
+#: kdebase3.spec.cpp:153
+msgid "<p>This link references the appendix.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ăρρȅƞɗɨϰ.</ρ>!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:156
+msgid "&Glossary"
+msgstr "[&Ɠļǒššăɾɣ!!!]"
+
+#: kdebase3.spec.cpp:159
+msgid "<p>This link references the glossary.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ɠļǒššăɾɣ.</ρ>!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:162
+msgid "&Index"
+msgstr "[&Ĩƞɗȅϰ!!]"
+
+#: kdebase3.spec.cpp:165
+msgid "<p>This link references the index.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ɨƞɗȅϰ.</ρ>!!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:168
+msgid "<p>This menu contains other important links.</p>"
+msgstr "[<ρ>Ҭɧɨš ɱȅƞʊ ĉǒƞƭăɨƞš ǒƭɧȅɾ ɨɱρǒɾƭăƞƭ ļɨƞķš.</ρ>!!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:174
+msgid "<p>This link references the help.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ɧȅļρ.</ρ>!!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:177
+msgid "&Authors"
+msgstr "[&Ăʊƭɧǒɾš!!!]"
+
+#: kdebase3.spec.cpp:180
+msgid "<p>This link references the author.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ăʊƭɧǒɾ.</ρ>!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:183
+msgid "Copy&right"
+msgstr "[Ĉǒρɣ&ɾɨɠɧƭ!!! ]"
+
+#: kdebase3.spec.cpp:186
+msgid "<p>This link references the copyright.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ĉǒρɣɾɨɠɧƭ.</ρ>!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:189
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "[<ρ>Ҭɧɨš ɱȅƞʊ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ɓǒǒķɱăɾķš.</ρ>!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:192
+#, fuzzy
+msgid "Other Versions"
+msgstr "[Ǒƭɧȅɾ Ѷȅɾšɨǒƞš!!! !]"
+
+#: kdebase3.spec.cpp:195
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "[<ρ>Ҭɧɨš ļɨƞķ ɾȅƒȅɾȅƞĉȅš ƭɧȅ ăļƭȅɾƞăƭȅ ʋȅɾšɨǒƞš ǒƒ ƭɧɨš ɗǒĉʊɱȅƞƭ.</ρ>!!! !!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:198
+msgid "<p>Miscellaneous links.</p>"
+msgstr "[<ρ>ʍɨšĉȅļļăƞȅǒʊš ļɨƞķš.</ρ>!!! !!! !]"
+
+#: kdebase3.spec.cpp:202
+msgid "&Alternate Button Order"
+msgstr "[&Ăļƭȅɾƞăƭȅ ßʊƭƭǒƞ Ǒɾɗȅɾ!!! !!! ]"
+
+#: kdebase3.spec.cpp:209
+#, c-format
+msgid "Folder: %1"
+msgstr "[Ƒǒļɗȅɾ: %1!!! ]"
+
+#: kdebase3.spec.cpp:214
+#, c-format
+msgid "Send Email to %1"
+msgstr "[Ѕȅƞɗ Ʃɱăɨļ ƭǒ %1!!! !!]"
+
+#: kdebase3.spec.cpp:218
+#, fuzzy, c-format
+msgid "Open Addressbook at %1"
+msgstr "[Ǒρȅƞ Ăɗɗɾȅššɓǒǒķ ăƭ %1!!! !!! ]"
+
+#: kdebase3.spec.cpp:221
+msgid "No subject"
+msgstr "[Ɲǒ šʊɓĵȅĉƭ!!! ]"
+
+#: kdebase3.spec.cpp:224
+msgid "(Attachment) "
+msgstr "[(Ăƭƭăĉɧɱȅƞƭ) !!! !]"
+
+#: kdebase3.spec.cpp:228
+#, c-format
+msgid "From %1"
+msgstr "[Ƒɾǒɱ %1!!]"
+
+#: kdebase3.spec.cpp:231
+#, c-format
+msgid "By %1"
+msgstr "[ßɣ %1!!]"
+
+#: kdebase3.spec.cpp:234
+#, c-format
+msgid "From Album %1"
+msgstr "[Ƒɾǒɱ Ăļɓʊɱ %1!!! !]"
+
+#: kdebase3.spec.cpp:237
+#, fuzzy, c-format
+msgid "Title: %1"
+msgstr "[Ҭɨƭļȅ: %1!!!]"
+
+#: kdebase3.spec.cpp:243
+#, c-format
+msgid "Conversation With %1"
+msgstr "[Ĉǒƞʋȅɾšăƭɨǒƞ Ɯɨƭɧ %1!!! !!!]"
+
+#: kdebase3.spec.cpp:246
+#, fuzzy
+msgid "Unknown Person"
+msgstr "[Ǔƞķƞǒɯƞ Ƥȅɾšǒƞ!!! !]"
+
+#: kdebase3.spec.cpp:249
+#, fuzzy, c-format
+msgid "Date: %1"
+msgstr "[Ďăƭȅ: %1!!!]"
+
+#: kdebase3.spec.cpp:252
+msgid "Switch to SUSE Menu Style"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ ЅǓЅƩ ʍȅƞʊ Ѕƭɣļȅ!!! !!! !]"
+
+#: kdebase3.spec.cpp:255
+msgid "Switch to KDE Menu Style"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ ЌĎƩ ʍȅƞʊ Ѕƭɣļȅ!!! !!! ]"
+
+#: kdebase3.spec.cpp:259
+msgid "New Applications"
+msgstr "[Ɲȅɯ Ăρρļɨĉăƭɨǒƞš!!! !!]"
+
+#: kdebase3.spec.cpp:262
+#, c-format
+msgid "Host: %1"
+msgstr "[Ĥǒšƭ: %1!!!]"
+
+#: kdebase3.spec.cpp:265
+msgid "Directory: /)"
+msgstr "[Ďɨɾȅĉƭǒɾɣ: /)!!! !]"
+
+#: kdebase3.spec.cpp:268
+#, fuzzy
+msgid "Directory: "
+msgstr "[Ďɨɾȅĉƭǒɾɣ: !!! ]"
+
+#: kdebase3.spec.cpp:271
+msgid "Press '/' to search..."
+msgstr "[Ƥɾȅšš '/' ƭǒ šȅăɾĉɧ...!!! !!! ]"
+
+#: kdebase3.spec.cpp:274
+msgid "User&nbsp;<b>%1</b>&nbsp;on&nbsp;<b>%2</b>"
+msgstr "[Ǔšȅɾ&ƞɓšρ;<ɓ>%1</ɓ>&ƞɓšρ;ǒƞ&ƞɓšρ;<ɓ>%2</ɓ>!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:277
+msgid "Most commonly used applications and documents"
+msgstr "[ʍǒšƭ ĉǒɱɱǒƞļɣ ʊšȅɗ ăρρļɨĉăƭɨǒƞš ăƞɗ ɗǒĉʊɱȅƞƭš!!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:280
+msgid "List of installed applications"
+msgstr "[£ɨšƭ ǒƒ ɨƞšƭăļļȅɗ ăρρļɨĉăƭɨǒƞš!!! !!! !!!]"
+
+#: kdebase3.spec.cpp:283
+msgid "Information and configuration of your system, access to personal files, network resources and connected disk drives"
+msgstr "[Ĩƞƒǒɾɱăƭɨǒƞ ăƞɗ ĉǒƞƒɨɠʊɾăƭɨǒƞ ǒƒ ɣǒʊɾ šɣšƭȅɱ, ăĉĉȅšš ƭǒ ρȅɾšǒƞăļ ƒɨļȅš, ƞȅƭɯǒɾķ ɾȅšǒʊɾĉȅš ăƞɗ ĉǒƞƞȅĉƭȅɗ ɗɨšķ ɗɾɨʋȅš!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:286
+msgid "Recently used applications and documents"
+msgstr "[Ʀȅĉȅƞƭļɣ ʊšȅɗ ăρρļɨĉăƭɨǒƞš ăƞɗ ɗǒĉʊɱȅƞƭš!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:289
+msgid "<qt>Logout, switch user, switch off or reset, suspend of the system"
+msgstr "[<ƣƭ>£ǒɠǒʊƭ, šɯɨƭĉɧ ʊšȅɾ, šɯɨƭĉɧ ǒƒƒ ǒɾ ɾȅšȅƭ, šʊšρȅƞɗ ǒƒ ƭɧȅ šɣšƭȅɱ!!! !!! !!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:292
+msgid "<p align=\"center\"> <u>F</u>avorites</p>"
+msgstr "[<ρ ăļɨɠƞ=\"ĉȅƞƭȅɾ\"> <ʊ>Ƒ</ʊ>ăʋǒɾɨƭȅš</ρ>!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:295
+msgid "<p align=\"center\"><u>H</u>istory</p>"
+msgstr "[<ρ ăļɨɠƞ=\"ĉȅƞƭȅɾ\"><ʊ>Ĥ</ʊ>ɨšƭǒɾɣ</ρ>!!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:298
+msgid "<p align=\"center\"> <u>C</u>omputer</p>"
+msgstr "[<ρ ăļɨɠƞ=\"ĉȅƞƭȅɾ\"> <ʊ>Ĉ</ʊ>ǒɱρʊƭȅɾ</ρ>!!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:301
+msgid "<p align=\"center\"><u>A</u>pplications</p>"
+msgstr "[<ρ ăļɨɠƞ=\"ĉȅƞƭȅɾ\"><ʊ>Ă</ʊ>ρρļɨĉăƭɨǒƞš</ρ>!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:304
+msgid "<p align=\"center\"><u>L</u>eave</p>"
+msgstr "[<ρ ăļɨɠƞ=\"ĉȅƞƭȅɾ\"><ʊ>£</ʊ>ȅăʋȅ</ρ>!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:307
+#, fuzzy
+msgid "Search Internet"
+msgstr "[Ѕȅăɾĉɧ Ĩƞƭȅɾƞȅƭ!!! !]"
+
+#: kdebase3.spec.cpp:313
+msgid "Applications, Contacts and Documents"
+msgstr "[Ăρρļɨĉăƭɨǒƞš, Ĉǒƞƭăĉƭš ăƞɗ Ďǒĉʊɱȅƞƭš!!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:316
+msgid "Start '%1'"
+msgstr "[Ѕƭăɾƭ '%1'!!! ]"
+
+#: kdebase3.spec.cpp:319
+msgid "Start '%1' (current)"
+msgstr "[Ѕƭăɾƭ '%1' (ĉʊɾɾȅƞƭ)!!! !!!]"
+
+#: kdebase3.spec.cpp:322
+msgid "Restart and boot directly into '%1'"
+msgstr "[Ʀȅšƭăɾƭ ăƞɗ ɓǒǒƭ ɗɨɾȅĉƭļɣ ɨƞƭǒ '%1'!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:325
+msgid "Start a parallel session"
+msgstr "[Ѕƭăɾƭ ă ρăɾăļļȅļ šȅššɨǒƞ!!! !!! ]"
+
+#: kdebase3.spec.cpp:328
+msgid "Lock screen and start a parallel session"
+msgstr "[£ǒĉķ šĉɾȅȅƞ ăƞɗ šƭăɾƭ ă ρăɾăļļȅļ šȅššɨǒƞ!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:331
+msgid "Switch to Session of User '%1'"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕȅššɨǒƞ ǒƒ Ǔšȅɾ '%1'!!! !!! !!!]"
+
+#: kdebase3.spec.cpp:334
+#, fuzzy, c-format
+msgid "Session: %1"
+msgstr "[Ѕȅššɨǒƞ: %1!!! ]"
+
+#: kdebase3.spec.cpp:338
+msgid "Logout"
+msgstr "[£ǒɠǒʊƭ!!]"
+
+#: kdebase3.spec.cpp:341
+msgid "End session"
+msgstr "[Ʃƞɗ šȅššɨǒƞ!!! ]"
+
+#: kdebase3.spec.cpp:344
+msgid "Lock"
+msgstr "[£ǒĉķ!]"
+
+#: kdebase3.spec.cpp:347
+msgid "Lock screen"
+msgstr "[£ǒĉķ šĉɾȅȅƞ!!! ]"
+
+#: kdebase3.spec.cpp:350
+msgid "Save current Session for next login"
+msgstr "[Ѕăʋȅ ĉʊɾɾȅƞƭ Ѕȅššɨǒƞ ƒǒɾ ƞȅϰƭ ļǒɠɨƞ!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:353
+msgid "Manage parallel sessions"
+msgstr "[ʍăƞăɠȅ ρăɾăļļȅļ šȅššɨǒƞš!!! !!! ]"
+
+#: kdebase3.spec.cpp:356
+#, fuzzy
+msgid "Shutdown Computer"
+msgstr "[Ѕɧʊƭɗǒɯƞ Ĉǒɱρʊƭȅɾ!!! !!]"
+
+#: kdebase3.spec.cpp:359
+msgid "Turn off computer"
+msgstr "[Ҭʊɾƞ ǒƒƒ ĉǒɱρʊƭȅɾ!!! !!]"
+
+#: kdebase3.spec.cpp:362
+#, fuzzy
+msgid "Restart and boot the default system"
+msgstr "[Ʀȅšƭăɾƭ ăƞɗ ɓǒǒƭ ƭɧȅ ɗȅƒăʊļƭ šɣšƭȅɱ!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:365
+msgid "Start Operating System"
+msgstr "[Ѕƭăɾƭ Ǒρȅɾăƭɨƞɠ Ѕɣšƭȅɱ!!! !!! ]"
+
+#: kdebase3.spec.cpp:368
+msgid "Restart and boot another operating system"
+msgstr "[Ʀȅšƭăɾƭ ăƞɗ ɓǒǒƭ ăƞǒƭɧȅɾ ǒρȅɾăƭɨƞɠ šɣšƭȅɱ!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:373
+msgid "Applications"
+msgstr "[Ăρρļɨĉăƭɨǒƞš!!! ]"
+
+#: kdebase3.spec.cpp:376
+#, fuzzy
+msgid "System Information"
+msgstr "[Ѕɣšƭȅɱ Ĩƞƒǒɾɱăƭɨǒƞ!!! !!]"
+
+#: kdebase3.spec.cpp:379
+#, fuzzy
+msgid "System Folders"
+msgstr "[Ѕɣšƭȅɱ Ƒǒļɗȅɾš!!! !]"
+
+#: kdebase3.spec.cpp:382
+msgid "Home Folder"
+msgstr "[Ĥǒɱȅ Ƒǒļɗȅɾ!!! ]"
+
+#: kdebase3.spec.cpp:385
+msgid "My Documents"
+msgstr "[ʍɣ Ďǒĉʊɱȅƞƭš!!! ]"
+
+#: kdebase3.spec.cpp:388
+#, fuzzy
+msgid "Network Folders"
+msgstr "[Ɲȅƭɯǒɾķ Ƒǒļɗȅɾš!!! !]"
+
+#: kdebase3.spec.cpp:391
+msgid "Documents"
+msgstr "[Ďǒĉʊɱȅƞƭš!!!]"
+
+#: kdebase3.spec.cpp:394
+msgid "- Add ext:type to specify a file extension."
+msgstr "[- Ăɗɗ ȅϰƭ:ƭɣρȅ ƭǒ šρȅĉɨƒɣ ă ƒɨļȅ ȅϰƭȅƞšɨǒƞ.!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:397
+msgid "- When searching for a phrase, add quotes."
+msgstr "[- Ɯɧȅƞ šȅăɾĉɧɨƞɠ ƒǒɾ ă ρɧɾăšȅ, ăɗɗ ƣʊǒƭȅš.!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:400
+msgid "- To exclude search terms, use the minus symbol in front."
+msgstr "[- Ҭǒ ȅϰĉļʊɗȅ šȅăɾĉɧ ƭȅɾɱš, ʊšȅ ƭɧȅ ɱɨƞʊš šɣɱɓǒļ ɨƞ ƒɾǒƞƭ.!!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:403
+msgid "- To search for optional terms, use OR."
+msgstr "[- Ҭǒ šȅăɾĉɧ ƒǒɾ ǒρƭɨǒƞăļ ƭȅɾɱš, ʊšȅ ǑƦ.!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:406
+msgid "- You can use upper and lower case."
+msgstr "[- ¥ǒʊ ĉăƞ ʊšȅ ʊρρȅɾ ăƞɗ ļǒɯȅɾ ĉăšȅ.!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:409
+msgid "Search Quick Tips"
+msgstr "[Ѕȅăɾĉɧ Ǭʊɨĉķ Ҭɨρš!!! !!]"
+
+#: kdebase3.spec.cpp:412
+msgid "%1 = %2"
+msgstr "[%1 = %2!!]"
+
+#: kdebase3.spec.cpp:415
+#, c-format
+msgid "Open Local File: %1"
+msgstr "[Ǒρȅƞ £ǒĉăļ Ƒɨļȅ: %1!!! !!!]"
+
+#: kdebase3.spec.cpp:418
+#, c-format
+msgid "Open Local Dir: %1"
+msgstr "[Ǒρȅƞ £ǒĉăļ Ďɨɾ: %1!!! !!]"
+
+#: kdebase3.spec.cpp:421
+#, c-format
+msgid "Open Remote Location: %1"
+msgstr "[Ǒρȅƞ Ʀȅɱǒƭȅ £ǒĉăƭɨǒƞ: %1!!! !!! ]"
+
+#: kdebase3.spec.cpp:424
+msgid "Run '%1'"
+msgstr "[Ʀʊƞ '%1'!!!]"
+
+#: kdebase3.spec.cpp:428
+#, fuzzy
+msgid "No matches found"
+msgstr "[Ɲǒ ɱăƭĉɧȅš ƒǒʊƞɗ!!! !!]"
+
+#: kdebase3.spec.cpp:431
+msgid "top %1 of %2"
+msgstr "[ƭǒρ %1 ǒƒ %2!!! ]"
+
+#: kdebase3.spec.cpp:434
+msgid "%1 (top %2 of %3)"
+msgstr "[%1 (ƭǒρ %2 ǒƒ %3)!!! !!]"
+
+#: kdebase3.spec.cpp:437
+#, fuzzy
+msgid "Do you really want to end the session?"
+msgstr "[Ďǒ ɣǒʊ ɾȅăļļɣ ɯăƞƭ ƭǒ ȅƞɗ ƭɧȅ šȅššɨǒƞ?!!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:440
+#, fuzzy
+msgid "Logout Confirmation"
+msgstr "[£ǒɠǒʊƭ Ĉǒƞƒɨɾɱăƭɨǒƞ!!! !!!]"
+
+#: kdebase3.spec.cpp:443
+#, fuzzy
+msgid "Do you really want to turn off the computer?"
+msgstr "[Ďǒ ɣǒʊ ɾȅăļļɣ ɯăƞƭ ƭǒ ƭʊɾƞ ǒƒƒ ƭɧȅ ĉǒɱρʊƭȅɾ?!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:446
+#, fuzzy
+msgid "Shutdown Confirmation"
+msgstr "[Ѕɧʊƭɗǒɯƞ Ĉǒƞƒɨɾɱăƭɨǒƞ!!! !!!]"
+
+#: kdebase3.spec.cpp:449
+msgid "Shutdown"
+msgstr "[Ѕɧʊƭɗǒɯƞ!!!]"
+
+#: kdebase3.spec.cpp:452
+msgid "Do you really want to reset the computer and boot (another operating system)?"
+msgstr "[Ďǒ ɣǒʊ ɾȅăļļɣ ɯăƞƭ ƭǒ ɾȅšȅƭ ƭɧȅ ĉǒɱρʊƭȅɾ ăƞɗ ɓǒǒƭ (ăƞǒƭɧȅɾ ǒρȅɾăƭɨƞɠ šɣšƭȅɱ)?!!! !!! !!! !!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:455
+#, fuzzy
+msgid "Restart Confirmation"
+msgstr "[Ʀȅšƭăɾƭ Ĉǒƞƒɨɾɱăƭɨǒƞ!!! !!!]"
+
+#: kdebase3.spec.cpp:458
+msgid "Restart"
+msgstr "[Ʀȅšƭăɾƭ!!]"
+
+#: kdebase3.spec.cpp:461
+#, fuzzy
+msgid "Do you really want to reset the computer and boot Microsoft Windows"
+msgstr "[Ďǒ ɣǒʊ ɾȅăļļɣ ɯăƞƭ ƭǒ ɾȅšȅƭ ƭɧȅ ĉǒɱρʊƭȅɾ ăƞɗ ɓǒǒƭ ʍɨĉɾǒšǒƒƭ Ɯɨƞɗǒɯš!!! !!! !!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:464
+#, fuzzy
+msgid "Start Windows Confirmation"
+msgstr "[Ѕƭăɾƭ Ɯɨƞɗǒɯš Ĉǒƞƒɨɾɱăƭɨǒƞ!!! !!! !]"
+
+#: kdebase3.spec.cpp:467
+msgid "Start Windows"
+msgstr "[Ѕƭăɾƭ Ɯɨƞɗǒɯš!!! !]"
+
+#: kdebase3.spec.cpp:470
+msgid "Could not start Tomboy."
+msgstr "[Ĉǒʊļɗ ƞǒƭ šƭăɾƭ Ҭǒɱɓǒɣ.!!! !!! ]"
+
+#: kdebase3.spec.cpp:473
+msgid "Remove From Favorites"
+msgstr "[Ʀȅɱǒʋȅ Ƒɾǒɱ Ƒăʋǒɾɨƭȅš!!! !!!]"
+
+#: kdebase3.spec.cpp:476
+msgid "Add to Favorites"
+msgstr "[Ăɗɗ ƭǒ Ƒăʋǒɾɨƭȅš!!! !!]"
+
+#: kdebase3.spec.cpp:479
+msgid "Clear Recently Used Applications"
+msgstr "[Ĉļȅăɾ Ʀȅĉȅƞƭļɣ Ǔšȅɗ Ăρρļɨĉăƭɨǒƞš!!! !!! !!!]"
+
+#: kdebase3.spec.cpp:482
+msgid "Clear Recently Used Documents"
+msgstr "[Ĉļȅăɾ Ʀȅĉȅƞƭļɣ Ǔšȅɗ Ďǒĉʊɱȅƞƭš!!! !!! !!]"
+
+#: kdebase3.spec.cpp:485
+msgid "Media"
+msgstr "[ʍȅɗɨă!!]"
+
+#: kdebase3.spec.cpp:488
+#, fuzzy
+msgid "(%1 available)"
+msgstr "[(%1 ăʋăɨļăɓļȅ)!!! !]"
+
+#: kdebase3.spec.cpp:492
+#, c-format
+msgid "Directory: %1"
+msgstr "[Ďɨɾȅĉƭǒɾɣ: %1!!! !]"
+
+#: kdebase3.spec.cpp:497
+msgid "Pause without logging out"
+msgstr "[Ƥăʊšȅ ɯɨƭɧǒʊƭ ļǒɠɠɨƞɠ ǒʊƭ!!! !!! !]"
+
+#: kdebase3.spec.cpp:502
+msgid "Suspend failed"
+msgstr "[Ѕʊšρȅƞɗ ƒăɨļȅɗ!!! !]"
+
+#: kdebase3.spec.cpp:505
+msgid "Notes"
+msgstr "[Ɲǒƭȅš!!]"
+
+#: kdebase3.spec.cpp:508
+msgid "Emails"
+msgstr "[Ʃɱăɨļš!!]"
+
+#: kdebase3.spec.cpp:514
+msgid "Music"
+msgstr "[ʍʊšɨĉ!!]"
+
+#: kdebase3.spec.cpp:517
+msgid "Browsing History"
+msgstr "[ßɾǒɯšɨƞɠ Ĥɨšƭǒɾɣ!!! !!]"
+
+#: kdebase3.spec.cpp:520
+msgid "Chat Logs"
+msgstr "[Ĉɧăƭ £ǒɠš!!!]"
+
+#: kdebase3.spec.cpp:523
+msgid "Feeds"
+msgstr "[Ƒȅȅɗš!!]"
+
+#: kdebase3.spec.cpp:526
+msgid "Pictures"
+msgstr "[Ƥɨĉƭʊɾȅš!!!]"
+
+#: kdebase3.spec.cpp:529
+msgid "Videos"
+msgstr "[Ѷɨɗȅǒš!!]"
+
+#: kdebase3.spec.cpp:532
+msgid "Documentation"
+msgstr "[Ďǒĉʊɱȅƞƭăƭɨǒƞ!!! !]"
+
+#: kdebase3.spec.cpp:535
+#, fuzzy
+msgid "Others"
+msgstr "[Ǒƭɧȅɾš!!]"
+
+#: kdebase3.spec.cpp:538
+msgid "Low Disk Space"
+msgstr "[£ǒɯ Ďɨšķ Ѕρăĉȅ!!! !]"
+
+#: kdebase3.spec.cpp:541
+msgid "Start Konqueror"
+msgstr "[Ѕƭăɾƭ Ќǒƞƣʊȅɾǒɾ!!! !]"
+
+#: kdebase3.spec.cpp:544
+msgid "You are running low on disk space on your home partition (currently %1% free), would you like to run Konqueror to free some disk space and fix the problem?"
+msgstr "[¥ǒʊ ăɾȅ ɾʊƞƞɨƞɠ ļǒɯ ǒƞ ɗɨšķ šρăĉȅ ǒƞ ɣǒʊɾ ɧǒɱȅ ρăɾƭɨƭɨǒƞ (ĉʊɾɾȅƞƭļɣ %1% ƒɾȅȅ), ɯǒʊļɗ ɣǒʊ ļɨķȅ ƭǒ ɾʊƞ Ќǒƞƣʊȅɾǒɾ ƭǒ ƒɾȅȅ šǒɱȅ ɗɨšķ šρăĉȅ ăƞɗ ƒɨϰ ƭɧȅ ρɾǒɓļȅɱ?!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:547
+msgid "<qt><h3>End Current Session</h3><p>Log out of the current session to login with a different user</p></qt>"
+msgstr "[<ƣƭ><ɧ3>Ʃƞɗ Ĉʊɾɾȅƞƭ Ѕȅššɨǒƞ</ɧ3><ρ>£ǒɠ ǒʊƭ ǒƒ ƭɧȅ ĉʊɾɾȅƞƭ šȅššɨǒƞ ƭǒ ļǒɠɨƞ ɯɨƭɧ ă ɗɨƒƒȅɾȅƞƭ ʊšȅɾ</ρ></ƣƭ>!!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:550
+msgid "<qt><h3>Turn Off Computer</h3><p>Log out of the current session and turn off the computer</p></qt>"
+msgstr "[<ƣƭ><ɧ3>Ҭʊɾƞ Ǒƒƒ Ĉǒɱρʊƭȅɾ</ɧ3><ρ>£ǒɠ ǒʊƭ ǒƒ ƭɧȅ ĉʊɾɾȅƞƭ šȅššɨǒƞ ăƞɗ ƭʊɾƞ ǒƒƒ ƭɧȅ ĉǒɱρʊƭȅɾ</ρ></ƣƭ>!!! !!! !!! !!! !!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:553
+msgid "<qt><h3>Restart Computer</h3><p>Log out of the current session and restart the computer</p><p>Hold the mouse button or the space bar for a short while to get a list of options what to boot</p></qt>"
+msgstr "[<ƣƭ><ɧ3>Ʀȅšƭăɾƭ Ĉǒɱρʊƭȅɾ</ɧ3><ρ>£ǒɠ ǒʊƭ ǒƒ ƭɧȅ ĉʊɾɾȅƞƭ šȅššɨǒƞ ăƞɗ ɾȅšƭăɾƭ ƭɧȅ ĉǒɱρʊƭȅɾ</ρ><ρ>Ĥǒļɗ ƭɧȅ ɱǒʊšȅ ɓʊƭƭǒƞ ǒɾ ƭɧȅ šρăĉȅ ɓăɾ ƒǒɾ ă šɧǒɾƭ ɯɧɨļȅ ƭǒ ɠȅƭ ă ļɨšƭ ǒƒ ǒρƭɨǒƞš ɯɧăƭ ƭǒ ɓǒǒƭ</ρ></ƣƭ>!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:556
+msgid "<qt><h3>Restart Computer</h3><p>Log out of the current session and restart the computer</p></qt>"
+msgstr "[<ƣƭ><ɧ3>Ʀȅšƭăɾƭ Ĉǒɱρʊƭȅɾ</ɧ3><ρ>£ǒɠ ǒʊƭ ǒƒ ƭɧȅ ĉʊɾɾȅƞƭ šȅššɨǒƞ ăƞɗ ɾȅšƭăɾƭ ƭɧȅ ĉǒɱρʊƭȅɾ</ρ></ƣƭ>!!! !!! !!! !!! !!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:559
+#, fuzzy
+msgid "Would you like to turn off your computer?"
+msgstr "[Ɯǒʊļɗ ɣǒʊ ļɨķȅ ƭǒ ƭʊɾƞ ǒƒƒ ɣǒʊɾ ĉǒɱρʊƭȅɾ?!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:562
+msgid ""
+"This computer will turn off automatically\n"
+"after %1 seconds."
+msgstr ""
+"[Ҭɧɨš ĉǒɱρʊƭȅɾ ɯɨļļ ƭʊɾƞ ǒƒƒ ăʊƭǒɱăƭɨĉăļļɣ\n"
+"ăƒƭȅɾ %1 šȅĉǒƞɗš.!!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:565
+msgid "Would you like to reboot your computer?"
+msgstr "[Ɯǒʊļɗ ɣǒʊ ļɨķȅ ƭǒ ɾȅɓǒǒƭ ɣǒʊɾ ĉǒɱρʊƭȅɾ?!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:568
+msgid "Would you like to reboot to \"%1\"?"
+msgstr "[Ɯǒʊļɗ ɣǒʊ ļɨķȅ ƭǒ ɾȅɓǒǒƭ ƭǒ \"%1\"?!!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:571
+msgid ""
+"This computer will reboot automatically\n"
+"after %1 seconds."
+msgstr ""
+"[Ҭɧɨš ĉǒɱρʊƭȅɾ ɯɨļļ ɾȅɓǒǒƭ ăʊƭǒɱăƭɨĉăļļɣ\n"
+"ăƒƭȅɾ %1 šȅĉǒƞɗš.!!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:574
+#, fuzzy
+msgid "Would you like to end your current session?"
+msgstr "[Ɯǒʊļɗ ɣǒʊ ļɨķȅ ƭǒ ȅƞɗ ɣǒʊɾ ĉʊɾɾȅƞƭ šȅššɨǒƞ?!!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:577
+msgid ""
+"This session will end\n"
+"after %1 seconds automatically."
+msgstr ""
+"[Ҭɧɨš šȅššɨǒƞ ɯɨļļ ȅƞɗ\n"
+"ăƒƭȅɾ %1 šȅĉǒƞɗš ăʊƭǒɱăƭɨĉăļļɣ.!!! !!! !!! !!! !!!]"
+
+#: kdebase3.spec.cpp:580
+msgid "Unable to start ksplashx."
+msgstr "[Ǔƞăɓļȅ ƭǒ šƭăɾƭ ķšρļăšɧϰ.!!! !!! !]"
+
+#: kdebase3.spec.cpp:583 xinerama.cpp:1
+msgid "S&eparate screen focus"
+msgstr "[Ѕ&ȅρăɾăƭȅ šĉɾȅȅƞ ƒǒĉʊš!!! !!! ]"
+
+#: kdebase3.spec.cpp:586 xinerama.cpp:2
+msgid "When this option is enabled, focus operations are limited only to the active Xinerama screen"
+msgstr "[Ɯɧȅƞ ƭɧɨš ǒρƭɨǒƞ ɨš ȅƞăɓļȅɗ, ƒǒĉʊš ǒρȅɾăƭɨǒƞš ăɾȅ ļɨɱɨƭȅɗ ǒƞļɣ ƭǒ ƭɧȅ ăĉƭɨʋȅ Жɨƞȅɾăɱă šĉɾȅȅƞ!!! !!! !!! !!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:589 xinerama.cpp:3
+msgid "Active &mouse screen"
+msgstr "[Ăĉƭɨʋȅ &ɱǒʊšȅ šĉɾȅȅƞ!!! !!!]"
+
+#: kdebase3.spec.cpp:592 xinerama.cpp:4
+msgid "When this option is enabled, active Xinerama screen (where for example new windows appear) is the screen with the mouse pointer. When disabled, the active Xinerama screen is the screen with the focused window. This option is by default disabled for Click to focus and enabled for other focus policies."
+msgstr "[Ɯɧȅƞ ƭɧɨš ǒρƭɨǒƞ ɨš ȅƞăɓļȅɗ, ăĉƭɨʋȅ Жɨƞȅɾăɱă šĉɾȅȅƞ (ɯɧȅɾȅ ƒǒɾ ȅϰăɱρļȅ ƞȅɯ ɯɨƞɗǒɯš ăρρȅăɾ) ɨš ƭɧȅ šĉɾȅȅƞ ɯɨƭɧ ƭɧȅ ɱǒʊšȅ ρǒɨƞƭȅɾ. Ɯɧȅƞ ɗɨšăɓļȅɗ, ƭɧȅ ăĉƭɨʋȅ Жɨƞȅɾăɱă šĉɾȅȅƞ ɨš ƭɧȅ šĉɾȅȅƞ ɯɨƭɧ ƭɧȅ ƒǒĉʊšȅɗ ɯɨƞɗǒɯ. Ҭɧɨš ǒρƭɨǒƞ ɨš ɓɣ ɗȅƒăʊļƭ ɗɨšăɓļȅɗ ƒǒɾ Ĉļɨĉķ ƭǒ ƒǒĉʊš ăƞɗ ȅƞăɓļȅɗ ƒǒɾ ǒƭɧȅɾ ƒǒĉʊš ρǒļɨĉɨȅš.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: kdebase3.spec.cpp:595 xinerama.cpp:8
+msgid "Window to Screen 0"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 0!!! !!]"
+
+#: kdebase3.spec.cpp:598 xinerama.cpp:9
+msgid "Window to Screen 1"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 1!!! !!]"
+
+#: kdebase3.spec.cpp:601 xinerama.cpp:10
+msgid "Window to Screen 2"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 2!!! !!]"
+
+#: kdebase3.spec.cpp:604 xinerama.cpp:11
+msgid "Window to Screen 3"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 3!!! !!]"
+
+#: kdebase3.spec.cpp:607 xinerama.cpp:12
+msgid "Window to Screen 4"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 4!!! !!]"
+
+#: kdebase3.spec.cpp:610 xinerama.cpp:13
+msgid "Window to Screen 5"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 5!!! !!]"
+
+#: kdebase3.spec.cpp:613 xinerama.cpp:14
+msgid "Window to Screen 6"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 6!!! !!]"
+
+#: kdebase3.spec.cpp:616 xinerama.cpp:15
+msgid "Window to Screen 7"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ѕĉɾȅȅƞ 7!!! !!]"
+
+#: kdebase3.spec.cpp:619 xinerama.cpp:16
+msgid "Window to Next Screen"
+msgstr "[Ɯɨƞɗǒɯ ƭǒ Ɲȅϰƭ Ѕĉɾȅȅƞ!!! !!!]"
+
+#: kdebase3.spec.cpp:622 xinerama.cpp:17
+msgid "Switch to Screen 0"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 0!!! !!]"
+
+#: kdebase3.spec.cpp:625 xinerama.cpp:18
+msgid "Switch to Screen 1"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 1!!! !!]"
+
+#: kdebase3.spec.cpp:628 xinerama.cpp:19
+msgid "Switch to Screen 2"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 2!!! !!]"
+
+#: kdebase3.spec.cpp:631 xinerama.cpp:20
+msgid "Switch to Screen 3"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 3!!! !!]"
+
+#: kdebase3.spec.cpp:634 xinerama.cpp:21
+msgid "Switch to Screen 4"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 4!!! !!]"
+
+#: kdebase3.spec.cpp:637 xinerama.cpp:22
+msgid "Switch to Screen 5"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 5!!! !!]"
+
+#: kdebase3.spec.cpp:640 xinerama.cpp:23
+msgid "Switch to Screen 6"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 6!!! !!]"
+
+#: kdebase3.spec.cpp:643 xinerama.cpp:24
+msgid "Switch to Screen 7"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ѕĉɾȅȅƞ 7!!! !!]"
+
+#: kdebase3.spec.cpp:646 xinerama.cpp:25
+msgid "Switch to Next Screen"
+msgstr "[Ѕɯɨƭĉɧ ƭǒ Ɲȅϰƭ Ѕĉɾȅȅƞ!!! !!!]"
+
+#: kdebase3.spec.cpp:649
+msgid "Start menu style:"
+msgstr "[Ѕƭăɾƭ ɱȅƞʊ šƭɣļȅ:!!! !!]"
+
+#: kdebase3.spec.cpp:652
+msgid "SUSE"
+msgstr "[ЅǓЅƩ!]"
+
+#: kdebase3.spec.cpp:655
+msgid "KDE"
+msgstr "[ЌĎƩ!]"
+
+#: kdebase3.spec.cpp:658
+msgid "Open menu on mouse hover"
+msgstr "[Ǒρȅƞ ɱȅƞʊ ǒƞ ɱǒʊšȅ ɧǒʋȅɾ!!! !!! ]"
+
+#: kdebase3.spec.cpp:661
+#, fuzzy
+msgid "Name (&Description)"
+msgstr "[Ɲăɱȅ (&Ďȅšĉɾɨρƭɨǒƞ)!!! !!!]"
+
+#: kdebase3.spec.cpp:664
+msgid "When this option is selected, items in the K Menu will appear with the application's name and a brief description in brackets next to the icon."
+msgstr "[Ɯɧȅƞ ƭɧɨš ǒρƭɨǒƞ ɨš šȅļȅĉƭȅɗ, ɨƭȅɱš ɨƞ ƭɧȅ Ќ ʍȅƞʊ ɯɨļļ ăρρȅăɾ ɯɨƭɧ ƭɧȅ ăρρļɨĉăƭɨǒƞ'š ƞăɱȅ ăƞɗ ă ɓɾɨȅƒ ɗȅšĉɾɨρƭɨǒƞ ɨƞ ɓɾăĉķȅƭš ƞȅϰƭ ƭǒ ƭɧȅ ɨĉǒƞ.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:667
+msgid "Alt+I"
+msgstr "[Ăļƭ+Ĩ!!]"
+
+#: kdebase3.spec.cpp:670
+msgid "Alt+F"
+msgstr "[Ăļƭ+Ƒ!!]"
+
+#: kdebase3.spec.cpp:673
+msgid "Alt+P"
+msgstr "[Ăļƭ+Ƥ!!]"
+
+#: kdebase3.spec.cpp:676
+msgid "Alt+M"
+msgstr "[Ăļƭ+ʍ!!]"
+
+#: kdebase3.spec.cpp:679
+#, fuzzy
+msgid "Preferred Window Manager:"
+msgstr "[Ƥɾȅƒȅɾɾȅɗ Ɯɨƞɗǒɯ ʍăƞăɠȅɾ:!!! !!! !]"
+
+#: kdebase3.spec.cpp:682
+msgid "KMenu"
+msgstr "[Ќʍȅƞʊ!!]"
+
+#: kdebase3.spec.cpp:685
+msgid "MShadow"
+msgstr "[ʍЅɧăɗǒɯ!!]"
+
+#: kdebase3.spec.cpp:688
+msgid "MShape"
+msgstr "[ʍЅɧăρȅ!!]"
+
+#: kdebase3.spec.cpp:691
+#, fuzzy
+msgid "Search:"
+msgstr "[Ѕȅăɾĉɧ:!!]"
+
+#: kdebase3.spec.cpp:694
+msgid "User&nbsp;<b>user</b>&nbsp;on&nbsp;<b>host</b>"
+msgstr "[Ǔšȅɾ&ƞɓšρ;<ɓ>ʊšȅɾ</ɓ>&ƞɓšρ;ǒƞ&ƞɓšρ;<ɓ>ɧǒšƭ</ɓ>!!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:697
+msgid "KMenuItemBase"
+msgstr "[ЌʍȅƞʊĨƭȅɱßăšȅ!!! !]"
+
+#: kdebase3.spec.cpp:700
+msgid "Would you like to shutdown your computer?"
+msgstr "[Ɯǒʊļɗ ɣǒʊ ļɨķȅ ƭǒ šɧʊƭɗǒɯƞ ɣǒʊɾ ĉǒɱρʊƭȅɾ?!!! !!! !!! !!]"
+
+#: kdebase3.spec.cpp:703
+msgid ""
+"If you do not act, your computer will shutdown\n"
+"after X automatically."
+msgstr ""
+"[Ĩƒ ɣǒʊ ɗǒ ƞǒƭ ăĉƭ, ɣǒʊɾ ĉǒɱρʊƭȅɾ ɯɨļļ šɧʊƭɗǒɯƞ\n"
+"ăƒƭȅɾ Ж ăʊƭǒɱăƭɨĉăļļɣ.!!! !!! !!! !!! !!! !!! ]"
+
+#: kdebase3.spec.cpp:706
+#, fuzzy
+msgid "Confirm"
+msgstr "[Ĉǒƞƒɨɾɱ!!]"
+
+#: kdelibs3.spec.cpp:2
+msgid "Conversion to KDEMM"
+msgstr "[Ĉǒƞʋȅɾšɨǒƞ ƭǒ ЌĎƩʍʍ!!! !!!]"
+
+#: kdelibs3.spec.cpp:6
+msgid "&Edit History..."
+msgstr "[&Ʃɗɨƭ Ĥɨšƭǒɾɣ...!!! !!]"
+
+#: kdelibs3.spec.cpp:9
+msgid "History Editor"
+msgstr "[Ĥɨšƭǒɾɣ Ʃɗɨƭǒɾ!!! !]"
+
+#: kdelibs3.spec.cpp:12
+#, fuzzy
+msgid "&Delete Entry"
+msgstr "[&Ďȅļȅƭȅ Ʃƞƭɾɣ!!! !]"
+
+#: kdelibs3.spec.cpp:15
+msgid "This dialog allows you to delete unwanted history items."
+msgstr "[Ҭɧɨš ɗɨăļǒɠ ăļļǒɯš ɣǒʊ ƭǒ ɗȅļȅƭȅ ʊƞɯăƞƭȅɗ ɧɨšƭǒɾɣ ɨƭȅɱš.!!! !!! !!! !!! !!! ]"
+
+#: kdelibs3.spec.cpp:18
+#, fuzzy
+msgid "Clear Search"
+msgstr "[Ĉļȅăɾ Ѕȅăɾĉɧ!!! ]"
+
+#: kdelibs3.spec.cpp:21
+#, fuzzy
+msgid "&Search:"
+msgstr "[&Ѕȅăɾĉɧ:!!!]"
+
+#: kdelibs3.spec.cpp:24 kfile-beagle.cpp:2
+#, fuzzy
+msgid "search term"
+msgstr "[šȅăɾĉɧ ƭȅɾɱ!!! ]"
+
+#: kdelibs3.spec.cpp:27 kfile-beagle.cpp:1
+msgid "Desktop Search"
+msgstr "[Ďȅšķƭǒρ Ѕȅăɾĉɧ!!! !]"
+
+#: kdelibs3.spec.cpp:30
+msgid ""
+"Could not access %1.\n"
+"Offline mode active."
+msgstr ""
+"[Ĉǒʊļɗ ƞǒƭ ăĉĉȅšš %1.\n"
+"Ǒƒƒļɨƞȅ ɱǒɗȅ ăĉƭɨʋȅ.!!! !!! !!! !!]"
+
+#: kdepim3.spec.cpp:2
+#, fuzzy, c-format
+msgid ""
+"Cannot open audio file:\n"
+"%1"
+msgstr ""
+"[Ĉăƞƞǒƭ ǒρȅƞ ăʊɗɨǒ ƒɨļȅ:\n"
+"%1!!! !!! !]"
+
+#: kdepim3.spec.cpp:5
+msgid "Stop sound"
+msgstr "[Ѕƭǒρ šǒʊƞɗ!!! ]"
+
+#: kdepim3.spec.cpp:8
+msgid "Stop playing the sound"
+msgstr "[Ѕƭǒρ ρļăɣɨƞɠ ƭɧȅ šǒʊƞɗ!!! !!! ]"
+
+#: kdepim3.spec.cpp:11
+msgid "<qt><p>KMail does not support attaching files bigger than 30 MB.</p>"
+msgstr "[<ƣƭ><ρ>Ќʍăɨļ ɗǒȅš ƞǒƭ šʊρρǒɾƭ ăƭƭăĉɧɨƞɠ ƒɨļȅš ɓɨɠɠȅɾ ƭɧăƞ 30 ʍß.</ρ>!!! !!! !!! !!! !!! !!! ]"
+
+#: kdepim3.spec.cpp:14
+msgid "KMail is now offline; all network operations cancelled"
+msgstr "[Ќʍăɨļ ɨš ƞǒɯ ǒƒƒļɨƞȅ; ăļļ ƞȅƭɯǒɾķ ǒρȅɾăƭɨǒƞš ĉăƞĉȅļļȅɗ!!! !!! !!! !!! !!!]"
+
+#: kdepim3.spec.cpp:17
+msgid "KMail is now online; network operations resumed"
+msgstr "[Ќʍăɨļ ɨš ƞǒɯ ǒƞļɨƞȅ; ƞȅƭɯǒɾķ ǒρȅɾăƭɨǒƞš ɾȅšʊɱȅɗ!!! !!! !!! !!! ]"
+
+#: mediamanager.cpp:1
+msgid "Access time updates"
+msgstr "[Ăĉĉȅšš ƭɨɱȅ ʊρɗăƭȅš!!! !!!]"
+
+#: mediamanager.cpp:2
+msgid "All Data"
+msgstr "[Ăļļ Ďăƭă!!!]"
+
+#: mediamanager.cpp:3
+msgid "All I/O to the file system should be done synchronously."
+msgstr "[Ăļļ Ĩ/Ǒ ƭǒ ƭɧȅ ƒɨļȅ šɣšƭȅɱ šɧǒʊļɗ ɓȅ ɗǒƞȅ šɣƞĉɧɾǒƞǒʊšļɣ.!!! !!! !!! !!! !!! ]"
+
+#: mediamanager.cpp:4
+#, fuzzy
+msgid "Device is already mounted."
+msgstr "[Ďȅʋɨĉȅ ɨš ăļɾȅăɗɣ ɱǒʊƞƭȅɗ.!!! !!! !]"
+
+#: mediamanager.cpp:5
+msgid "Device is Busy:"
+msgstr "[Ďȅʋɨĉȅ ɨš ßʊšɣ:!!! !]"
+
+#: mediamanager.cpp:6
+msgid "Feature only available with HAL"
+msgstr "[Ƒȅăƭʊɾȅ ǒƞļɣ ăʋăɨļăɓļȅ ɯɨƭɧ ĤĂ£!!! !!! !!!]"
+
+#: mediamanager.cpp:7
+#, fuzzy, c-format
+msgid "Filesystem: %1"
+msgstr "[Ƒɨļȅšɣšƭȅɱ: %1!!! !]"
+
+#: mediamanager.cpp:8
+msgid "Filesystem: iso9660"
+msgstr "[Ƒɨļȅšɣšƭȅɱ: ɨšǒ9660!!! !!!]"
+
+#: mediamanager.cpp:9
+msgid "Filesystem Specific Mount Options"
+msgstr "[Ƒɨļȅšɣšƭȅɱ Ѕρȅĉɨƒɨĉ ʍǒʊƞƭ Ǒρƭɨǒƞš!!! !!! !!! ]"
+
+#: mediamanager.cpp:10
+msgid "Flushed IO"
+msgstr "[Ƒļʊšɧȅɗ ĨǑ!!! ]"
+
+#: mediamanager.cpp:11
+#, fuzzy
+msgid "Generic Mount Options"
+msgstr "[Ɠȅƞȅɾɨĉ ʍǒʊƞƭ Ǒρƭɨǒƞš!!! !!!]"
+
+#: mediamanager.cpp:12
+msgid "Internal Error"
+msgstr "[Ĩƞƭȅɾƞăļ Ʃɾɾǒɾ!!! !]"
+
+#: mediamanager.cpp:13
+#, fuzzy
+msgid "Invalid filesystem type"
+msgstr "[Ĩƞʋăļɨɗ ƒɨļȅšɣšƭȅɱ ƭɣρȅ!!! !!! ]"
+
+#: mediamanager.cpp:14
+#, fuzzy
+msgid "Journaling:"
+msgstr "[ĵǒʊɾƞăļɨƞɠ:!!! ]"
+
+#: mediamanager.cpp:15
+msgid "Lower"
+msgstr "[£ǒɯȅɾ!!]"
+
+#: mediamanager.cpp:16
+msgid "Mixed"
+msgstr "[ʍɨϰȅɗ!!]"
+
+#: mediamanager.cpp:17
+msgid "Mount as user"
+msgstr "[ʍǒʊƞƭ ăš ʊšȅɾ!!! !]"
+
+#: mediamanager.cpp:18
+msgid "Mount automatically"
+msgstr "[ʍǒʊƞƭ ăʊƭǒɱăƭɨĉăļļɣ!!! !!!]"
+
+#: mediamanager.cpp:19
+#, fuzzy
+msgid "&Mounting"
+msgstr "[&ʍǒʊƞƭɨƞɠ!!!]"
+
+#: mediamanager.cpp:20
+msgid "Mount label:"
+msgstr "[ʍǒʊƞƭ ļăɓȅļ:!!! ]"
+
+#: mediamanager.cpp:21
+#, fuzzy
+msgid "Mountpoint:"
+msgstr "[ʍǒʊƞƭρǒɨƞƭ:!!! ]"
+
+#: mediamanager.cpp:22
+msgid "Mountpoint has to be below /media"
+msgstr "[ʍǒʊƞƭρǒɨƞƭ ɧăš ƭǒ ɓȅ ɓȅļǒɯ /ɱȅɗɨă!!! !!! !!! ]"
+
+#: mediamanager.cpp:23
+msgid "Mount the file system read-only."
+msgstr "[ʍǒʊƞƭ ƭɧȅ ƒɨļȅ šɣšƭȅɱ ɾȅăɗ-ǒƞļɣ.!!! !!! !!!]"
+
+#: mediamanager.cpp:24
+msgid "Mount this file system as user."
+msgstr "[ʍǒʊƞƭ ƭɧɨš ƒɨļȅ šɣšƭȅɱ ăš ʊšȅɾ.!!! !!! !!!]"
+
+#: mediamanager.cpp:25
+msgid "Mount this file system automatically."
+msgstr "[ʍǒʊƞƭ ƭɧɨš ƒɨļȅ šɣšƭȅɱ ăʊƭǒɱăƭɨĉăļļɣ.!!! !!! !!! !]"
+
+#: mediamanager.cpp:26
+#, c-format
+msgid "No such medium: %1"
+msgstr "[Ɲǒ šʊĉɧ ɱȅɗɨʊɱ: %1!!! !!]"
+
+#: mediamanager.cpp:27
+msgid "Ordered"
+msgstr "[Ǒɾɗȅɾȅɗ!!]"
+
+#: mediamanager.cpp:28
+#, fuzzy
+msgid "Permissions denied"
+msgstr "[Ƥȅɾɱɨššɨǒƞš ɗȅƞɨȅɗ!!! !!]"
+
+#: mediamanager.cpp:29
+msgid "PropertiesPageGUI"
+msgstr "[ƤɾǒρȅɾƭɨȅšƤăɠȅƓǓĨ!!! !!]"
+
+#: mediamanager.cpp:30
+msgid "Quiet"
+msgstr "[Ǭʊɨȅƭ!!]"
+
+#: mediamanager.cpp:31
+msgid "Read only"
+msgstr "[Ʀȅăɗ ǒƞļɣ!!!]"
+
+#: mediamanager.cpp:32
+#, fuzzy
+msgid "Saving the changes failed"
+msgstr "[Ѕăʋɨƞɠ ƭɧȅ ĉɧăƞɠȅš ƒăɨļȅɗ!!! !!! !]"
+
+#: mediamanager.cpp:33
+msgid "Short names:"
+msgstr "[Ѕɧǒɾƭ ƞăɱȅš:!!! ]"
+
+#: mediamanager.cpp:34
+msgid "Synchronous"
+msgstr "[Ѕɣƞĉɧɾǒƞǒʊš!!! ]"
+
+#: mediamanager.cpp:35
+msgid "The option 'flush' is not allowed"
+msgstr "[Ҭɧȅ ǒρƭɨǒƞ 'ƒļʊšɧ' ɨš ƞǒƭ ăļļǒɯȅɗ!!! !!! !!! ]"
+
+#: mediamanager.cpp:36
+msgid "Under what label this file system shall be mounted."
+msgstr "[Ǔƞɗȅɾ ɯɧăƭ ļăɓȅļ ƭɧɨš ƒɨļȅ šɣšƭȅɱ šɧăļļ ɓȅ ɱǒʊƞƭȅɗ.!!! !!! !!! !!! !!]"
+
+#: mediamanager.cpp:37
+msgid "Update inode access time for each access."
+msgstr "[Ǔρɗăƭȅ ɨƞǒɗȅ ăĉĉȅšš ƭɨɱȅ ƒǒɾ ȅăĉɧ ăĉĉȅšš.!!! !!! !!! !!]"
+
+#: mediamanager.cpp:38
+msgid "UTF-8 charset"
+msgstr "[ǓҬƑ-8 ĉɧăɾšȅƭ!!! !]"
+
+#: mediamanager.cpp:39
+msgid "Windows 95"
+msgstr "[Ɯɨƞɗǒɯš 95!!! ]"
+
+#: mediamanager.cpp:40
+msgid "Windows NT"
+msgstr "[Ɯɨƞɗǒɯš ƝҬ!!! ]"
+
+#: mediamanager.cpp:41
+msgid "Write Back"
+msgstr "[Ɯɾɨƭȅ ßăĉķ!!! ]"
+
+#: mediamanager.cpp:42
+msgid "Attempts to chown or chmod files do not return errors, although they fail. Use with caution!"
+msgstr "[Ăƭƭȅɱρƭš ƭǒ ĉɧǒɯƞ ǒɾ ĉɧɱǒɗ ƒɨļȅš ɗǒ ƞǒƭ ɾȅƭʊɾƞ ȅɾɾǒɾš, ăļƭɧǒʊɠɧ ƭɧȅɣ ƒăɨļ. Ǔšȅ ɯɨƭɧ ĉăʊƭɨǒƞ!!!! !!! !!! !!! !!! !!! !!! !!! ]"
+
+#: mediamanager.cpp:43
+msgid "Under what directory this file system shall be mounted. Please note that there is no guarantee that the system will respect your wish. For one the directory has to be below /media - and it does not yet have to exist."
+msgstr "[Ǔƞɗȅɾ ɯɧăƭ ɗɨɾȅĉƭǒɾɣ ƭɧɨš ƒɨļȅ šɣšƭȅɱ šɧăļļ ɓȅ ɱǒʊƞƭȅɗ. Ƥļȅăšȅ ƞǒƭȅ ƭɧăƭ ƭɧȅɾȅ ɨš ƞǒ ɠʊăɾăƞƭȅȅ ƭɧăƭ ƭɧȅ šɣšƭȅɱ ɯɨļļ ɾȅšρȅĉƭ ɣǒʊɾ ɯɨšɧ. Ƒǒɾ ǒƞȅ ƭɧȅ ɗɨɾȅĉƭǒɾɣ ɧăš ƭǒ ɓȅ ɓȅļǒɯ /ɱȅɗɨă - ăƞɗ ɨƭ ɗǒȅš ƞǒƭ ɣȅƭ ɧăʋȅ ƭǒ ȅϰɨšƭ.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! ]"
+
+#: mediamanager.cpp:46
+msgid "Always flush all data to the hot plug devices immediately and don't cache it."
+msgstr "[Ăļɯăɣš ƒļʊšɧ ăļļ ɗăƭă ƭǒ ƭɧȅ ɧǒƭ ρļʊɠ ɗȅʋɨĉȅš ɨɱɱȅɗɨăƭȅļɣ ăƞɗ ɗǒƞ'ƭ ĉăĉɧȅ ɨƭ.!!! !!! !!! !!! !!! !!! !!!]"
+
+#: mediamanager.cpp:47
+msgid "UTF8 is the filesystem safe 8-bit encoding of Unicode that is used by the console. It can be be enabled for the filesystem with this option."
+msgstr "[ǓҬƑ8 ɨš ƭɧȅ ƒɨļȅšɣšƭȅɱ šăƒȅ 8-ɓɨƭ ȅƞĉǒɗɨƞɠ ǒƒ Ǔƞɨĉǒɗȅ ƭɧăƭ ɨš ʊšȅɗ ɓɣ ƭɧȅ ĉǒƞšǒļȅ. Ĩƭ ĉăƞ ɓȅ ɓȅ ȅƞăɓļȅɗ ƒǒɾ ƭɧȅ ƒɨļȅšɣšƭȅɱ ɯɨƭɧ ƭɧɨš ǒρƭɨǒƞ.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]"
+
+#: mediamanager.cpp:49
+msgid ""
+"<h2>Specifies  the journalling mode for file data. Metadata is always journaled. </h2>\n"
+"           \n"
+"<h3><b>All Data</b></h3>\n"
+"           All  data  is  committed into the journal prior to being written into the main file system. This is the slowest variant with the highest data security.\n"
+"\n"
+"<h3><b>Ordered</b></h3>\n"
+"           All data is forced directly out to the main  file system prior to its metadata being committed to the journal.\n"
+"\n"
+"<h3><b>Write Back</b></h3>\n"
+"           Data ordering is not preserved - data may be written into the main file system after its metadata has been committed to the journal.  This is rumoured to  be the  highest-throughput option.  It guarantees internal file system integrity,  however it can allow old data to appear in files after  a  crash  and  journal recovery."
+msgstr ""
+"[<ɧ2>Ѕρȅĉɨƒɨȅš  ƭɧȅ ĵǒʊɾƞăļļɨƞɠ ɱǒɗȅ ƒǒɾ ƒɨļȅ ɗăƭă. ʍȅƭăɗăƭă ɨš ăļɯăɣš ĵǒʊɾƞăļȅɗ. </ɧ2>\n"
+"           \n"
+"<ɧ3><ɓ>Ăļļ Ďăƭă</ɓ></ɧ3>\n"
+"           Ăļļ  ɗăƭă  ɨš  ĉǒɱɱɨƭƭȅɗ ɨƞƭǒ ƭɧȅ ĵǒʊɾƞăļ ρɾɨǒɾ ƭǒ ɓȅɨƞɠ ɯɾɨƭƭȅƞ ɨƞƭǒ ƭɧȅ ɱăɨƞ ƒɨļȅ šɣšƭȅɱ. Ҭɧɨš ɨš ƭɧȅ šļǒɯȅšƭ ʋăɾɨăƞƭ ɯɨƭɧ ƭɧȅ ɧɨɠɧȅšƭ ɗăƭă šȅĉʊɾɨƭɣ.\n"
+"\n"
+"<ɧ3><ɓ>Ǒɾɗȅɾȅɗ</ɓ></ɧ3>\n"
+"           Ăļļ ɗăƭă ɨš ƒǒɾĉȅɗ ɗɨɾȅĉƭļɣ ǒʊƭ ƭǒ ƭɧȅ ɱăɨƞ  ƒɨļȅ šɣšƭȅɱ ρɾɨǒɾ ƭǒ ɨƭš ɱȅƭăɗăƭă ɓȅɨƞɠ ĉǒɱɱɨƭƭȅɗ ƭǒ ƭɧȅ ĵǒʊɾƞăļ.\n"
+"\n"
+"<ɧ3><ɓ>Ɯɾɨƭȅ ßăĉķ</ɓ></ɧ3>\n"
+"           Ďăƭă ǒɾɗȅɾɨƞɠ ɨš ƞǒƭ ρɾȅšȅɾʋȅɗ - ɗăƭă ɱăɣ ɓȅ ɯɾɨƭƭȅƞ ɨƞƭǒ ƭɧȅ ɱăɨƞ ƒɨļȅ šɣšƭȅɱ ăƒƭȅɾ ɨƭš ɱȅƭăɗăƭă ɧăš ɓȅȅƞ ĉǒɱɱɨƭƭȅɗ ƭǒ ƭɧȅ ĵǒʊɾƞăļ.  Ҭɧɨš ɨš ɾʊɱǒʊɾȅɗ ƭǒ  ɓȅ ƭɧȅ  ɧɨɠɧȅšƭ-ƭɧɾǒʊɠɧρʊƭ ǒρƭɨǒƞ.  Ĩƭ ɠʊăɾăƞƭȅȅš ɨƞƭȅɾƞăļ ƒɨļȅ šɣšƭȅɱ ɨƞƭȅɠɾɨƭɣ,  ɧǒɯȅʋȅɾ ɨƭ ĉăƞ ăļļǒɯ ǒļɗ ɗăƭă ƭǒ ăρρȅăɾ ɨƞ ƒɨļȅš ăƒƭȅɾ  ă  ĉɾăšɧ  ăƞɗ  ĵǒʊɾƞăļ ɾȅĉǒʋȅɾɣ.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! ]"
+
+#: mediamanager.cpp:67
+msgid ""
+"<h2>Defines  the  behaviour  for  creation and display of filenames which fit into 8.3 characters. If a long name for a file exists, it will always be preferred display.</h2>\n"
+"\n"
+"<h3><b>Lower</b></h3>\n"
+"Force the short name to lower case upon display; store a long name when the short name is not all upper case.\n"
+"\n"
+"<h3><b>Windows 95</b></h3>\n"
+"Force the short name to upper case upon display; store a long name when the short name is not all upper case.\n"
+"\n"
+"<h3><b>Windows NT</b></h3>\n"
+"Display the shortname as is; store a long name when the short name is not all lower case or all upper case.\n"
+"\n"
+"<h3><b>Mixed</b></h3>\n"
+"Display the short name as is; store a long name when the short name is not all upper case."
+msgstr ""
+"[<ɧ2>Ďȅƒɨƞȅš  ƭɧȅ  ɓȅɧăʋɨǒʊɾ  ƒǒɾ  ĉɾȅăƭɨǒƞ ăƞɗ ɗɨšρļăɣ ǒƒ ƒɨļȅƞăɱȅš ɯɧɨĉɧ ƒɨƭ ɨƞƭǒ 8.3 ĉɧăɾăĉƭȅɾš. Ĩƒ ă ļǒƞɠ ƞăɱȅ ƒǒɾ ă ƒɨļȅ ȅϰɨšƭš, ɨƭ ɯɨļļ ăļɯăɣš ɓȅ ρɾȅƒȅɾɾȅɗ ɗɨšρļăɣ.</ɧ2>\n"
+"\n"
+"<ɧ3><ɓ>£ǒɯȅɾ</ɓ></ɧ3>\n"
+"Ƒǒɾĉȅ ƭɧȅ šɧǒɾƭ ƞăɱȅ ƭǒ ļǒɯȅɾ ĉăšȅ ʊρǒƞ ɗɨšρļăɣ; šƭǒɾȅ ă ļǒƞɠ ƞăɱȅ ɯɧȅƞ ƭɧȅ šɧǒɾƭ ƞăɱȅ ɨš ƞǒƭ ăļļ ʊρρȅɾ ĉăšȅ.\n"
+"\n"
+"<ɧ3><ɓ>Ɯɨƞɗǒɯš 95</ɓ></ɧ3>\n"
+"Ƒǒɾĉȅ ƭɧȅ šɧǒɾƭ ƞăɱȅ ƭǒ ʊρρȅɾ ĉăšȅ ʊρǒƞ ɗɨšρļăɣ; šƭǒɾȅ ă ļǒƞɠ ƞăɱȅ ɯɧȅƞ ƭɧȅ šɧǒɾƭ ƞăɱȅ ɨš ƞǒƭ ăļļ ʊρρȅɾ ĉăšȅ.\n"
+"\n"
+"<ɧ3><ɓ>Ɯɨƞɗǒɯš ƝҬ</ɓ></ɧ3>\n"
+"Ďɨšρļăɣ ƭɧȅ šɧǒɾƭƞăɱȅ ăš ɨš; šƭǒɾȅ ă ļǒƞɠ ƞăɱȅ ɯɧȅƞ ƭɧȅ šɧǒɾƭ ƞăɱȅ ɨš ƞǒƭ ăļļ ļǒɯȅɾ ĉăšȅ ǒɾ ăļļ ʊρρȅɾ ĉăšȅ.\n"
+"\n"
+"<ɧ3><ɓ>ʍɨϰȅɗ</ɓ></ɧ3>\n"
+"Ďɨšρļăɣ ƭɧȅ šɧǒɾƭ ƞăɱȅ ăš ɨš; šƭǒɾȅ ă ļǒƞɠ ƞăɱȅ ɯɧȅƞ ƭɧȅ šɧǒɾƭ ƞăɱȅ ɨš ƞǒƭ ăļļ ʊρρȅɾ ĉăšȅ.!!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!!]"
+
+#: qt3-devel-doc.spec.cpp:2 qt3-extensions.spec.cpp:2 qt3-static.spec.cpp:2
+#: qt3.spec.cpp:2
+msgid "Select Input &Method"
+msgstr "[Ѕȅļȅĉƭ Ĩƞρʊƭ &ʍȅƭɧǒɗ!!! !!!]"
+
+#: qt3-devel-doc.spec.cpp:5 qt3-extensions.spec.cpp:5 qt3-static.spec.cpp:5
+#: qt3.spec.cpp:5
+msgid "Multiple Input Method Switcher"
+msgstr "[ʍʊļƭɨρļȅ Ĩƞρʊƭ ʍȅƭɧǒɗ Ѕɯɨƭĉɧȅɾ!!! !!! !!!]"
+
+#: qt3-devel-doc.spec.cpp:8 qt3-extensions.spec.cpp:8 qt3-static.spec.cpp:8
+#: qt3.spec.cpp:8
+msgid "Multiple input method switcher that uses the context menu of the text widgets"
+msgstr "[ʍʊļƭɨρļȅ ɨƞρʊƭ ɱȅƭɧǒɗ šɯɨƭĉɧȅɾ ƭɧăƭ ʊšȅš ƭɧȅ ĉǒƞƭȅϰƭ ɱȅƞʊ ǒƒ ƭɧȅ ƭȅϰƭ ɯɨɗɠȅƭš!!! !!! !!! !!! !!! !!! !!!]"
+
+#: qt3-devel-doc.spec.cpp:11 qt3-extensions.spec.cpp:11 qt3-static.spec.cpp:11
+#: qt3.spec.cpp:11
+msgid "Dummy Input Method Switcher"
+msgstr "[Ďʊɱɱɣ Ĩƞρʊƭ ʍȅƭɧǒɗ Ѕɯɨƭĉɧȅɾ!!! !!! !]"
+
+#: qt3-devel-doc.spec.cpp:14 qt3-extensions.spec.cpp:14 qt3-static.spec.cpp:14
+#: qt3.spec.cpp:14
+msgid "Dummy input method switcher that uses the context menu of the text widgets"
+msgstr "[Ďʊɱɱɣ ɨƞρʊƭ ɱȅƭɧǒɗ šɯɨƭĉɧȅɾ ƭɧăƭ ʊšȅš ƭɧȅ ĉǒƞƭȅϰƭ ɱȅƞʊ ǒƒ ƭɧȅ ƭȅϰƭ ɯɨɗɠȅƭš!!! !!! !!! !!! !!! !!! !!]"
+
+#: qt3-devel-doc.spec.cpp:17 qt3-extensions.spec.cpp:17 qt3-static.spec.cpp:17
+#: qt3.spec.cpp:17
+msgid "Simple Composing Input Method"
+msgstr "[Ѕɨɱρļȅ Ĉǒɱρǒšɨƞɠ Ĩƞρʊƭ ʍȅƭɧǒɗ!!! !!! !!]"
+
+#: qt3-devel-doc.spec.cpp:20 qt3-extensions.spec.cpp:20 qt3-static.spec.cpp:20
+#: qt3.spec.cpp:20
+msgid "Simple composing input method"
+msgstr "[Ѕɨɱρļȅ ĉǒɱρǒšɨƞɠ ɨƞρʊƭ ɱȅƭɧǒɗ!!! !!! !!]"
+
+#: qt3-devel-doc.spec.cpp:23 qt3-extensions.spec.cpp:23 qt3-static.spec.cpp:23
+#: qt3.spec.cpp:23
+msgid "XIM"
+msgstr "[ЖĨʍ!]"
+
+#: qt3-devel-doc.spec.cpp:26 qt3-extensions.spec.cpp:26 qt3-static.spec.cpp:26
+#: qt3.spec.cpp:26
+msgid "XIM input method"
+msgstr "[ЖĨʍ ɨƞρʊƭ ɱȅƭɧǒɗ!!! !!]"
+
+#: qt3-devel-doc.spec.cpp:29 qt3-extensions.spec.cpp:29 qt3-static.spec.cpp:29
+#: qt3.spec.cpp:29
+msgid "Unknown Input Method"
+msgstr "[Ǔƞķƞǒɯƞ Ĩƞρʊƭ ʍȅƭɧǒɗ!!! !!!]"
+
+#: qt3-devel-doc.spec.cpp:32 qt3-extensions.spec.cpp:32 qt3-static.spec.cpp:32
+#: qt3.spec.cpp:32
+msgid "Default Input Method:"
+msgstr "[Ďȅƒăʊļƭ Ĩƞρʊƭ ʍȅƭɧǒɗ:!!! !!!]"
+
+#, fuzzy
+#~ msgid "Link key directory:"
+#~ msgstr "[£ɨƞķ ķȅɣ ɗɨɾȅĉƭǒɾɣ:!!! !!!]"
+
+#, fuzzy
+#~ msgid "Search for personal files and applications"
+#~ msgstr "[Ѕȅăɾĉɧ ƒǒɾ ρȅɾšǒƞăļ ƒɨļȅš ăƞɗ ăρρļɨĉăƭɨǒƞš!!! !!! !!! !!!]"
+
+#, fuzzy
+#~ msgid "Do you really want to pause the computer without logging out?"
+#~ msgstr "[Ďǒ ɣǒʊ ɾȅăļļɣ ɯăƞƭ ƭǒ ρăʊšȅ ƭɧȅ ĉǒɱρʊƭȅɾ ɯɨƭɧǒʊƭ ļǒɠɠɨƞɠ ǒʊƭ?!!! !!! !!! !!! !!! !]"
+
+#, fuzzy
+#~ msgid "Suspend Confirmation"
+#~ msgstr "[Ѕʊšρȅƞɗ Ĉǒƞƒɨɾɱăƭɨǒƞ!!! !!!]"
+
+#~ msgid "System"
+#~ msgstr "[Ѕɣšƭȅɱ!!]"
+
+#~ msgid "Advanced"
+#~ msgstr "[Ăɗʋăƞĉȅɗ!!!]"
+
+#, fuzzy
+#~ msgid "Please enter your password."
+#~ msgstr "[Ƥļȅăšȅ ȅƞƭȅɾ ɣǒʊɾ ρăššɯǒɾɗ.!!! !!! !]"
+
+#, fuzzy
+#~ msgid "Animations"
+#~ msgstr "[Ăƞɨɱăƭɨǒƞš!!! ]"
+
+#~ msgid "Status"
+#~ msgstr "[Ѕƭăƭʊš!!]"
+
+#, fuzzy
+#~ msgid "Unable to eject media."
+#~ msgstr "[Ǔƞăɓļȅ ƭǒ ȅĵȅĉƭ ɱȅɗɨă.!!! !!! ]"
+
+#, fuzzy
+#~ msgid "Obsolete"
+#~ msgstr "[Ǒɓšǒļȅƭȅ!!!]"
+
+#, fuzzy
+#~ msgid "C&hange..."
+#~ msgstr "[Ĉ&ɧăƞɠȅ...!!! ]"
+
+#, fuzzy
+#~ msgid "Authorization Dialog"
+#~ msgstr "[Ăʊƭɧǒɾɨʐăƭɨǒƞ Ďɨăļǒɠ!!! !!!]"
