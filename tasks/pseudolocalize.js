@@ -125,7 +125,33 @@ module.exports = function(grunt) {
 		}
 		return output;
 	}
+	
+	function run(sourceFile, destFile, options, done) {
+		PO.load(sourceFile, function(err, po) {
 
+			if (err){
+				grunt.warn('Error loading po file ' + sourceFile);
+				return;
+			}
+			
+			_.forEach(po.items, function(item) {
+				item.msgstr[0] = process(item.msgid, options);
+				if (item.msgid_plural){
+					item.msgstr[1] = process(item.msgid_plural, options);
+				}
+			});
+			
+			po.save(destFile, function (err) {
+				if (err){
+					grunt.warn('Error saving po file ' + destFile);
+					return;
+				}
+				grunt.log.notverbose.ok('File "' + destFile + '" written.');
+				done();
+			});
+		});
+	}
+	
 	grunt.registerMultiTask('pseudoize',
 		'Pseudolocalize English JSON key-value locale file for testing purposes.', function() {
 		var done = this.async();
@@ -140,49 +166,39 @@ module.exports = function(grunt) {
 		if (options.padPercent > 0 && !options.padString) {
 			grunt.fatal("Optional 'padString' must be a non-empty string value (default 'x')");
 		}
+		if(this.files.length > 0){
+			this.files.forEach(function(file) {
 
-		this.files.forEach(function(file) {
+				if (file.dest) {
 
-			if (file.dest) {
-
-				var sourceFile = file.src[0];
-				
-				grunt.log.notverbose.ok(file.src);
-				if (!grunt.file.exists(sourceFile)) {
-					grunt.log.warn('Source file "' + sourceFile + '" not found.');
-					return false;
-				}
-				
-				grunt.log.notverbose.ok('Loading source files...');
-				PO.load(sourceFile, function(err, po){
-	
-					if (err){
-						grunt.warn('Error loading po file ' + sourceFile);
-						return;
+					var sourceFile = file.src[0];
+					
+					grunt.log.notverbose.ok(file.src);
+					if (!grunt.file.exists(sourceFile)) {
+						grunt.log.warn('Source file "' + sourceFile + '" not found.');
+						return false;
 					}
 					
-					_.forEach(po.items, function(item) {
-						item.msgstr[0] = process(item.msgid, options);
-						if (item.msgid_plural){
-							item.msgstr[1] = process(item.msgid_plural, options);
-						}
-					});
-					
-					po.save(file.dest, function (err) {
-						if (err){
-							grunt.warn('Error saving po file ' + file.dest);
-							return;
-						}
-						grunt.log.notverbose.ok('File "' + file.dest + '" written.');
-						done();
-					});
-				});
+					grunt.log.notverbose.ok('Loading source files...');
+					run(sourceFile, file.dest, options, done);
 
-			} else {
-				grunt.warn('No destination supplied; nothing to do.');
+				} else {
+					grunt.warn('No destination supplied; nothing to do.');
+				}
+
+			});
+		} else {
+			var src = grunt.option('src'), dest = grunt.option('dest');
+			if (!src){
+				grunt.warn('No src file supplied; nothing to do.');
+				return;
 			}
-
-		});
+			if (!dest){
+				grunt.warn('No dest file supplied; nothing to do.');
+				return;
+			}
+			run(src, dest, options, done);
+		}
 	});
 
 };
